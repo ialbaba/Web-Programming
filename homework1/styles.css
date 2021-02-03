@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    text-align: center;
+}
+h3{
+    font-size: 1.1em;
+}
+
+form label, input{
+    margin-left: 15px;
+}
+
+.mathSection{
+    text-align: center;
+}
