@@ -1,20 +1,19 @@
 body{
-    background-color: #3D405B;
+    background-color: rgba(0, 0, 0, 0.8)
 }
 
 .header{
-    padding-top: 10px;
+    padding-top: 0px;
     padding-bottom: 10px;
-    background-color: #F4F1DE;
-    border-radius: 5px;
 }
 .header h1{
-    color: #3D405B;
-    text-align: center;
+    color: white;
+    text-align: left;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 48px;
 }
 .leftContainer{
     width: 50%;
-    background-color: #81B29A;
     margin: 5px;
     padding: 5px;
     border-radius: 5px;
@@ -25,14 +24,23 @@ h1{
     color: #E07A5F;
 }
 table, th, td {
-    border: 1px solid black;
+    border: 1px solid gray;
     padding: 2px;
-    color: #black;
+    color: white
 }
 table{
     margin: 2%;
-    background-color: #F4F1DE ;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 3px;
+    font-family: 'Roboto Mono', monospace;
+    color: white
 }
+
+a:link {
+    color: white;
+  }
+  a:visited {
+    color: red;
+  }
+  /* mouse over link */
+  a:hover {
+    color: white;
+  }
