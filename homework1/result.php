@@ -9,12 +9,16 @@ $majors = $_GET["majors"];
 $math1 = $_GET["mathQuestion1"];
 $math2 = $_GET["mathQuestion2"];
 
+
 #score tracker -368
 $score = 0;
 
-echo("<h1> $fname $lname's Results: <h1>");
+echo("<h1> $fname $lname's Results: </h1>");
 
 echo("Q1: Australia is wider than the moon:");
+
+echo("<br>");
+
 
 if ($trueFalse == "True") {
     echo("CORRECT. Austrialia is wider than the Moon!");
@@ -23,7 +27,12 @@ if ($trueFalse == "True") {
 else{
     echo("FALSE. Austrialia is wider than the Moon!");
 }
+
+echo("<br><br>");
+
 echo("Q2: Select all true statements");
+
+echo("<br>");
 
 if ($statements == "madonna") {
     echo("CORRECT. Madonna's real name is Madonna");
@@ -33,7 +42,12 @@ else {
     echo("FALSE. K is worth four points in Scrabble! AND The only letter not in the periodic table is the letter J");
 }
 
+echo("<br>");
+echo("<br>");
+
 echo("Q3: What major is not offered in the SCI School");
+
+echo("<br>");
 
 if ($statements == "madonna") {
     echo("CORRECT. Biology is not offered!");
@@ -43,7 +57,12 @@ else {
     echo("FALSE. Biology is not offered");
 }
 
+echo("<br>");
+echo("<br>");
+
 echo("Q4: 2^6 is equal to...");
+
+echo("<br>");
 
 if ($statements == "64") {
     echo("CORRECT.");
@@ -53,8 +72,10 @@ else {
     echo("FALSE. Correct answer is 64");
 }
 
+echo("<br>");
+echo("<br>");
 
-echo("Q5: Log(1) is equal to...")
+echo("Q5: Log(1) is equal to...");
 
 if ($statements == "0") {
     echo("CORRECT.");
@@ -64,9 +85,11 @@ else {
     echo("FALSE. Correct answer is 0");
 }
 
-echo("<h2>Total score : $score / 5 <h2>");
+echo("<br>");
+echo("<br>");
 
-exit;
+echo("<h2>Total score : $score / 5 </h2>");
+
 
 ?>
 
