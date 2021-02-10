@@ -65,7 +65,6 @@ else {
 }
 
 echo("<h2>Total score : $score / 5 <h2>")
-header("Location: http://theos.in/");
 
 exit;
 
