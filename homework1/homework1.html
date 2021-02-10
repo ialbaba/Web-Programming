@@ -11,7 +11,8 @@
     <h1>HOMEWORK 1</h1>
     <h2>Quiz</h2>
 
-    <form>
+    <form action="result.php" method="GET">
+        
         <label for="firstName">First name:</label>
         <input type="text" id="firstName" name="firstName"><br>
         <label for="lastName">Last name:</label>
@@ -19,27 +20,26 @@
         
         <h3>Question 1:</h3>
         <label for="Q1">Australia is wider than the moon:</label> <br>
-            <input type="radio" name="isTrue" value="True">
+            <input type="radio" name="trueFalse" value="True">
             <label for="isTrue">True</label><br>
-            <input type="radio" name="isFlase" value="False">
+            <input type="radio" name="trueFalse" value="False">
             <label for="isFalse">False</label><br>
 
         <h3>Question 2:</h3>
-        <label for="Q1">Select all true statements</label> <br>
-        <input type="checkbox" id="statement1" name="statement1" value="scrabble">
-        <label for="statement1">K is worth four points in Scrabble</label><br>
-        <input type="checkbox" id="statement2" name="statement2" value="madonna">
-        <label for="statement2">Madonna's real name is Madonna</label><br>
-        <input type="checkbox" id="statement3" name="statement3" value="periodicTable">
-        <label for="statement3">The only letter not in the periodic table is the letter J
-        </label><br>
+        <label for="statements">Select all true statements</label> <br>
+        <input type="checkbox" id="statement1" name="statements" value="scrabble">
+        <label for="statements">K is worth four points in Scrabble</label><br>
+        <input type="checkbox" id="statement2" name="statements" value="madonna">
+        <label for="statements">Madonna's real name is Madonna</label><br>
+        <input type="checkbox" id="statement3" name="statements" value="periodicTable">
+        <label for="statements">The only letter not in the periodic table is the letter I</label><br>
 
         <h3>Question 3:</h3>
-        <label for="majors">What is your intended major:</label>
+        <label for="majors">What major is not offered in the SCI School:</label>
         <select name="majors" id="majors">
             <option value="infsci">Information Science</option>
             <option value="compsci">Computer Science</option>
-            <option value="compbio">Computational Biology</option>
+            <option value="compbio">Biology</option>
             <option value="other">Other</option>
         </select>
         <h3 class = "mathSection">Math Section!</h3>
@@ -48,8 +48,8 @@
         <input type="text" id="mathQuestion1" name="mathQuestion1"><br>
 
         <h3>Question 5:</h3>
-        <label for="lastName">Log(1)?</label>
-        <input type="text" id="lastName" name="lastName"><br>
+        <label for="mathQuestion2">Log(1)?</label>
+        <input type="text" id="mathQuestion2" name="mathQuestion2"><br>
 
         <br>
         <br>
