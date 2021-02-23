@@ -93,7 +93,7 @@ echo("<h2>Total score : $score / 5 </h2>");
 
 $now  = new DateTime();
 $blob = array("FirstName"=>$fname, "LastName"=>$lname, "Q1"=>$trueFalse, "Q2"=>$statements, "Q3"=>$majors, "Q4"=>$math1, "Q5"=>$math2, "Timestamp"=>$now);
-echo($blob);
+echo(serialize($blob));
 $filePath = "results.txt";
 file_put_contents($filePath, $blob+";", FILE_APPEND);
 ?>
