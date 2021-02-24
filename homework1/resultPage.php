@@ -1,15 +1,9 @@
 <?php
     // at a later point, you can convert it back to array like:
     $data = file_get_contents('results.txt');
-    $filterData = explode(";", $data);
-    // unserializing to get actual array
-    echo($filterData);
-    echo '<pre>'; print_r($filterData); echo '</pre>';
-    foreach ($filterData as $val){
-        $recoveredArray = unserialize($filterData);
-        echo '<pre>'; print_r($recoveredArray); echo '</pre>';
-        foreach ($recoveredArray as $value){
-            echo($value);
-        }
+    $recoveredData = unserialize($data);
+    echo '<pre>'; print_r($recoveredData); echo '</pre>';
+    foreach ($recoveredData as $val){
+        echo '<pre>'; print_r($val); echo '</pre>';
     }
 ?>
