@@ -8,11 +8,13 @@
       }
 
     $data = file_get_contents('results.txt');
-    $sep_data = explode(";", $data);
-    $sep_data = array_pop($sep_data)
+    $data_expanded = explode(";", $data);
+    $sep_data = array_pop($data_expanded);
+    echo '<pre>'; print_r($sep_data); echo '</pre>';
     foreach ($sep_data as $val){
+        echo($val);
         $sep_input = explode(",", $val);
-        array_map(displayScore($v1, $v2), $mappedKeys, $sep_input;
+        array_map(displayScore($v1, $v2), $mappedKeys, $sep_input);
     }
  
 
