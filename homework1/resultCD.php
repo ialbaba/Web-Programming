@@ -35,7 +35,7 @@ echo("Q2: Select all true statements");
 echo("<br>");
 
 if ($statements == "madonna") {
-    echo("CORRECT. Madonna"s real name is Madonna");
+    echo("CORRECT. Madonna real name is Madonna");
     $score++;
 }
 else {
