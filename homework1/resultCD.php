@@ -99,7 +99,7 @@ $arr = array("FirstName"=>$fname, "LastName"=>$lname, "Q1"=>$trueFalse, "Q2"=>$s
 $blob = file_get_contents('results.txt');
 $blob_arr = unserialize($blob);
 
-array_push($blob_arr, $arr);
+array_push($blob_arr, unserialize($arr));
 file_put_contents($filePath, serialize($blob_arr), FILE_APPEND);
 
 ?>
