@@ -97,6 +97,7 @@ $blob = array("FirstName"=>$fname, "LastName"=>$lname, "Q1"=>$trueFalse, "Q2"=>$
 echo(serialize($blob));
 $filePath = "results.txt";
 file_put_contents($filePath, serialize($blob), FILE_APPEND);
+file_put_contents($filePath, ";", FILE_APPEND);
 ?>
 
 
