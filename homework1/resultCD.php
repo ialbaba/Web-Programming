@@ -90,14 +90,18 @@ echo("<br>");
 
 echo("<h2>Total score : $score / 5 </h2>");
 
-
+$filePath = "results.txt";
 $time  = new DateTime();
 $timeStamp = $time->format('Y-m-d H:i');
-$blob = array("FirstName"=>$fname, "LastName"=>$lname, "Q1"=>$trueFalse, "Q2"=>$statements, "Q3"=>$majors, "Q4"=>$math1, "Q5"=>$math2, "Timestamp"=>$timeStamp);
-echo(serialize($blob));
-$filePath = "results.txt";
-file_put_contents($filePath, serialize($blob), FILE_APPEND);
-file_put_contents($filePath, ";", FILE_APPEND);
+
+$arr = array("FirstName"=>$fname, "LastName"=>$lname, "Q1"=>$trueFalse, "Q2"=>$statements, "Q3"=>$majors, "Q4"=>$math1, "Q5"=>$math2, "Timestamp"=>$timeStamp);
+
+$blob = file_get_contents('results.txt');
+$blob_arr = unserialize($blob);
+
+array_push($blob_arr, $arr);
+file_put_contents($filePath, serialize($blob_arr), FILE_APPEND);
+
 ?>
 
 
