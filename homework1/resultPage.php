@@ -7,7 +7,6 @@
     foreach ($filterData as $val){
         $recoveredArray = unserialize($val);
         foreach ($recoveredArray as $value){
-            echo($value)
-        }
+            echo($value);
     }
 ?>
