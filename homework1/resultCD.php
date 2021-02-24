@@ -94,7 +94,9 @@ $filePath = "results.txt";
 $time  = new DateTime();
 $timeStamp = $time->format('Y-m-d H:i');
 
-$arr = array("FirstName"=>$fname, "LastName"=>$lname, "Q1"=>$trueFalse, "Q2"=>$statements, "Q3"=>$majors, "Q4"=>$math1, "Q5"=>$math2, "Timestamp"=>$timeStamp);
+$blob = $fname + ',' +$lname + ',' + $trueFalse+ ','  + $statements+ ','  + $majors + ','  + $math1+ ','  + $math2 + ',' + $timeStamp + ',' + $score + ';';
+file_put_contents($filePath, $blob, FILE_APPEND);
+/* $arr = array("FirstName"=>$fname, "LastName"=>$lname, "Q1"=>$trueFalse, "Q2"=>$statements, "Q3"=>$majors, "Q4"=>$math1, "Q5"=>$math2, "Timestamp"=>$timeStamp);
 
 $blob = file_get_contents('results.txt');
 $blob_arr = unserialize($blob);
@@ -106,7 +108,7 @@ else{
     array_push($blob_arr, serialize($arr));
 }
 echo '<pre>'; print_r($blob_arr); echo '</pre>';
-file_put_contents($filePath, serialize($blob_arr));
+file_put_contents($filePath, serialize($blob_arr)); */
 
 ?>
 
