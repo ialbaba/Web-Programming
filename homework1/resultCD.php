@@ -100,8 +100,12 @@ $blob = file_get_contents('results.txt');
 $blob_arr = unserialize($blob);
 if (empty($blob_arr)) {
     $blob_arr = [];
+    array_push($blob_arr, serialize($arr));
 }
-array_push($blob_arr, serialize($arr));
+else{
+    array_push($blob_arr, serialize($arr));
+}
+echo '<pre>'; print_r($blob_arr); echo '</pre>';
 file_put_contents($filePath, serialize($blob_arr), FILE_APPEND);
 
 ?>
