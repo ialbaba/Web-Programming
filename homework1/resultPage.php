@@ -3,9 +3,11 @@
     $data = file_get_contents('results.txt');
     $filterData = explode(";", $$data);
     // unserializing to get actual array
-    $recoveredArray = unserialize($recoveredData);
+    echo($filterData);
     foreach ($filterData as $val){
         $recoveredArray = unserialize($val);
+        echo($val);
+        echo($recoveredArray);
         foreach ($recoveredArray as $value){
             echo($value);
         }
