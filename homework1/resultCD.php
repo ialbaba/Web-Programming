@@ -64,7 +64,7 @@ echo("Q4: 2^6 is equal to...");
 
 echo("<br>");
 
-if ($statements == "64") {
+if ($statements == 64) {
     echo("CORRECT.");
     $score++;
 }
@@ -77,7 +77,7 @@ echo("<br>");
 
 echo("Q5: Log(1) is equal to...");
 
-if ($statements == "0") {
+if ($statements == 0) {
     echo("CORRECT.");
     $score++;
 }
