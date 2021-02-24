@@ -4,6 +4,7 @@
     $filterData = explode(";", $$data);
     // unserializing to get actual array
     echo($filterData);
+    echo '<pre>'; print_r($filterData); echo '</pre>';
     foreach ($filterData as $val){
         $recoveredArray = unserialize($val);
         echo($val);
