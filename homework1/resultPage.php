@@ -4,6 +4,6 @@
     $recoveredData = unserialize($data);
     echo '<pre>'; print_r($recoveredData); echo '</pre>';
     foreach ($recoveredData as $val){
-        echo '<pre>'; print_r($val); echo '</pre>';
+        echo '<pre>'; print_r(unserialized($val)); echo '</pre>';
     }
 ?>
