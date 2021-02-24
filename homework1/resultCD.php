@@ -13,7 +13,7 @@ $math2 = $_GET["mathQuestion2"];
 #score tracker -368
 $score = 0;
 
-echo("<h1> $fname $lname's Results: </h1>");
+echo("<h1> $fname $lname"s Results: </h1>");
 
 echo("Q1: Australia is wider than the moon:");
 
@@ -35,7 +35,7 @@ echo("Q2: Select all true statements");
 echo("<br>");
 
 if ($statements == "madonna") {
-    echo("CORRECT. Madonna's real name is Madonna");
+    echo("CORRECT. Madonna"s real name is Madonna");
     $score++;
 }
 else {
@@ -92,13 +92,14 @@ echo("<h2>Total score : $score / 5 </h2>");
 
 $filePath = "results.txt";
 $time  = new DateTime();
-$timeStamp = $time->format('Y-m-d H:i');
+$timeStamp = $time->format("Y-m-d H:i");
 
-$blob = $fname + ',' +$lname + ',' + $trueFalse+ ','  + $statements+ ','  + $majors + ','  + $math1+ ','  + $math2 + ',' + $timeStamp + ',' + $score + ';';
+$blob =  $fname.",".$lname.",".$trueFalse.",".$statements.",".$majors.",".$math1.",".$math2.",".$timeStamp.",".$score.";";
+echo($blob);
 file_put_contents($filePath, $blob, FILE_APPEND);
 /* $arr = array("FirstName"=>$fname, "LastName"=>$lname, "Q1"=>$trueFalse, "Q2"=>$statements, "Q3"=>$majors, "Q4"=>$math1, "Q5"=>$math2, "Timestamp"=>$timeStamp);
 
-$blob = file_get_contents('results.txt');
+$blob = file_get_contents("results.txt");
 $blob_arr = unserialize($blob);
 if (empty($blob_arr)) {
     $blob_arr = [];
@@ -107,7 +108,7 @@ if (empty($blob_arr)) {
 else{
     array_push($blob_arr, serialize($arr));
 }
-echo '<pre>'; print_r($blob_arr); echo '</pre>';
+echo "<pre>"; print_r($blob_arr); echo "</pre>";
 file_put_contents($filePath, serialize($blob_arr)); */
 
 ?>
