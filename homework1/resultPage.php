@@ -8,5 +8,6 @@
         $recoveredArray = unserialize($val);
         foreach ($recoveredArray as $value){
             echo($value);
+        }
     }
 ?>
