@@ -6,7 +6,7 @@
     echo($filterData);
     echo '<pre>'; print_r($filterData); echo '</pre>';
     foreach ($filterData as $val){
-        $recoveredArray = unserialize($val);
+        $recoveredArray = unserialize($filterData);
         echo '<pre>'; print_r($recoveredArray); echo '</pre>';
         foreach ($recoveredArray as $value){
             echo($value);
