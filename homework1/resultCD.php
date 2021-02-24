@@ -106,7 +106,7 @@ else{
     array_push($blob_arr, serialize($arr));
 }
 echo '<pre>'; print_r($blob_arr); echo '</pre>';
-file_put_contents($filePath, serialize($blob_arr), FILE_APPEND);
+file_put_contents($filePath, serialize($blob_arr));
 
 ?>
 
