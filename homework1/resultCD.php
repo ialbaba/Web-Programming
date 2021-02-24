@@ -13,7 +13,7 @@ $math2 = $_GET["mathQuestion2"];
 #score tracker -368
 $score = 0;
 
-echo("<h1> $fname $lname"s Results: </h1>");
+echo("<h1> $fname $lname Results: </h1>");
 
 echo("Q1: Australia is wider than the moon:");
 
