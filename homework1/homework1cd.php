@@ -55,7 +55,9 @@
         <br>
 
         <input type="submit" value="Submit">
-
+    </form>
+    <form action="resultPage.php" method="post">
+        <input type="submit" value = "Results Page"></p>
     </form>
 
 </body>
