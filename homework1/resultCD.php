@@ -98,8 +98,10 @@ $arr = array("FirstName"=>$fname, "LastName"=>$lname, "Q1"=>$trueFalse, "Q2"=>$s
 
 $blob = file_get_contents('results.txt');
 $blob_arr = unserialize($blob);
-
-array_push($blob_arr, unserialize($arr));
+if (empty($blob_arr)) {
+    $blob_arr = [];
+}
+array_push($blob_arr, serialize($arr));
 file_put_contents($filePath, serialize($blob_arr), FILE_APPEND);
 
 ?>
