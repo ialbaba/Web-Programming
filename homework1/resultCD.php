@@ -94,9 +94,9 @@ $filePath = "results.txt";
 $time  = new DateTime();
 $timeStamp = $time->format("Y-m-d H:i");
 
-$blob =  $fname.",".$lname.",".$trueFalse.",".$statements.",".$majors.",".$math1.",".$math2.",".$timeStamp.",".$score.";";
-echo($blob);
-file_put_contents($filePath, $blob, FILE_APPEND);
+// $blob =  $fname.",".$lname.",".$trueFalse.",".$statements.",".$majors.",".$math1.",".$math2.",".$timeStamp.",".$score.";";
+//echo($blob);
+//file_put_contents($filePath, $blob, FILE_APPEND);
 /* $arr = array("FirstName"=>$fname, "LastName"=>$lname, "Q1"=>$trueFalse, "Q2"=>$statements, "Q3"=>$majors, "Q4"=>$math1, "Q5"=>$math2, "Timestamp"=>$timeStamp);
 
 $blob = file_get_contents("results.txt");
