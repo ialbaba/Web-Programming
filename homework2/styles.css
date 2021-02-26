@@ -1,0 +1,15 @@
+ul {
+    list-style-type: none;
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    padding-inline-start: unset;
+}
+.blocks{
+    display: inline-block;
+    width: 320px;
+    vertical-align: top;
+}
+body{
+    font-family: 'Merriweather';
+}
