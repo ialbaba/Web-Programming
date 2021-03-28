@@ -6,7 +6,7 @@
     $dbname = "iba11";
 
     $connection = mysqli_connect($host, $user, $password, $dbname);
-
+    
     if($_POST){
         $name = $_POST['name'];
         $fname = explode(" ", $name)[0];
@@ -62,7 +62,6 @@
             $insert_statment .= $zipCode.",";
             $insert_statment .= '"'.$state.'"'.")";     
             }
-            echo($insert_statment);
             $insert_command = mysqli_query($connection, $insert_statment);
 
     }  
@@ -82,7 +81,7 @@
     <img src="winnie.jpg" alt="Winnie Sweater" width="300" height="400">
     <h3>Fill out purchase form below to order a sweater today!</h3>
 
-    <form action="homework2.php" method = "post">
+    <form action="homework2b.php" method = "post">
         <?php
             if ($error_msg != ''){
                 echo('<p>'.$error_msg.'</p>');

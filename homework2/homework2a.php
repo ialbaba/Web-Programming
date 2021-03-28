@@ -41,7 +41,7 @@
     <img src="winnie.jpg" alt="Winnie Sweater" width="300" height="400">
     <h3>Fill out purchase form below to order a sweater today!</h3>
 
-    <form action="homework2.php" method = "post">
+    <form action="homework2a.php" method = "post">
         <?php
             if ($error_msg != ''){
                 echo('<p>'.$error_msg.'</p>');
