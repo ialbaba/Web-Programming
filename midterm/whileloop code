@@ -1,0 +1,54 @@
+            <?php 
+                $query = "select idTopics, username, timestamp, subject, message FROM iba11.ForumTopics JOIN iba11.ForumUsers userID on idUsers WHERE categoryID = 2;";
+                $result = mysqli_query($connection, $query);
+                if(!$result){echo 'External Error. Try Again later!';}
+                while($row = mysqli_fetch_assoc($result))
+                    {
+                    $returnTopic = 
+                    '<div id="topic">
+                    <div id="topicBlock">
+                        <span id = "metadata"> @'.$row['username'].' | '.$row['timestamp'].' </span>
+                        <h3> '.$row['subject'].'</h3>
+                        <p> '.$row['message'].' </p>
+                    </div>';
+                    $query = "select * FROM iba11.ForumReplies JOIN iba11.ForumUsers ON userid = idUsers WHERE topicID = ".$row['idTopics'].";";
+                    $result2 = mysqli_query($connection, $query);
+                    if(!$result){echo 'External Error. Try Again later!';}
+                    while($row2 = mysqli_fetch_assoc($result2))
+                        {
+                            $returnTopic .=  '<div id="reply">
+                                                <span id = "metadata"> @'.$row2['username'].'| '.$row2['timestamp'].'</span>
+                                                <p> '.$row2['message'].' </p>
+                                                </div>';
+                        }
+                    $returnTopic .= '<div id="comment">
+                                        <form action = "comment.php" method = "post">
+                                            <input type = "input" name = "comment" value = "comment"></input>
+                                            <br>
+                                            <input type = "hidden" name = "topicID" value = '.$row['idTopics'].'>
+                                            <input type = "hidden" name = "url" value = '.$weburl.'>
+                                            <input type = "submit" name = "submit" value = "comment"></input>
+                                        </form>
+                                    </div>';
+                    $returnTopic .= '</div>';
+    /*                 $returnTopic = 
+                    '<div id="topic">
+                    <div id="topicBlock">
+                        <span id = "metadata"> @'.$row['username'].' | '.$row['timestamp'].' </span>
+                        <h3> '.$row['subject'].'</h3>
+                        <p> '.$row['message'].' <p>
+                    </div>
+                    </div>'; */
+                    echo $returnTopic;
+                    
+    /*                 echo '<div id="comment">
+                            <form action = "comment.php" method = "post">
+                                <input type = "input" name = "comment" value = "comment"></input>
+                                <br>
+                                <input type = "hidden" name = "topicID" value = '.$row['idTopics'].'>
+                                <input type = "hidden" name = "url" value = '.$weburl.'>
+                                <input type = "submit" name = "submit" value = "comment"></input>
+                            </form>
+                        </div>';
+                    } */
+                    }
