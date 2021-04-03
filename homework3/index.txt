@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+
+    <title>Ibrahim Albaba</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com"> 
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Roboto+Mono:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <h1>Homework 3</h1>
+    <h3>Part 1</h3>
+    <p>Use JavaScript to calculate the area of a triangle if given the three sides of length 50, 37, and 25, round the answer to two decimal places:</p>
+    <form>
+        <labe>Cliclk Button to see result:</labe>
+        <input type = "button" onclick="calcArea()" value = "Calculate"></input>
+      </form>
+    <script>
+        function calcArea() {
+            var s;
+            var area;
+            var a = 50;
+            var b = 37;
+            var c = 25;
+            s = (a + b +c)/2;
+            area = Math.sqrt(s*((s-a)*(s-b)*(s-c)));
+            area = Math.round(area * 100) / 100;
+            alert(area);
+        }
+        
+    </script>
+    <h3>Part 2</h3>
+    <p>Coin Counter: Create a small script that accepts a number (use a prompt box) and converts that into coins.</p>
+    <form>
+        <labe>Input Currency</labe>
+        <input type="number" name="money" id="money" onchange="returnCoins()"><br>
+      </form>
+      <br>
+      <div style = "padding-left: 20px; border: double;">
+        Quarters: <input name="quarters" id="quarters" type="text" readonly>
+        Dimes: <input name="dimes" id="dimes" type="text" readonly>
+        Nickles: <input name="nickles" id="nickles" type="text" readonly>
+        Pennies: <input name="pennies" id="pennies" type="text" readonly>
+      </div>
+      <script>
+        function returnCoins() {
+            var a = document.getElementById('money').value; 
+            a = Math.round(a * 100) / 100;
+            var q, r, d, n, p;
+            // Quarter
+            q = Math.floor(a/25);
+            // calc remainder
+            r = (a%25);
+            // dimes
+            d = Math.floor(r/10);
+            // calc remainder
+            r = r%10;
+            // nickles
+            n = Math.floor(r/5);
+            // calc remainder
+            r = r%5;
+            var divobj = document.getElementById('quarters');
+            divobj.value = q;
+            var divobj = document.getElementById('dimes');
+            divobj.value = d;
+            var divobj = document.getElementById('nickles');
+            divobj.value = n;
+            var divobj = document.getElementById('pennies');
+            divobj.value = r;
+/*          document.write("Quarters:")
+            document.write(q);
+            document.write("<br>Dimes:")
+            document.write(d);
+            document.write("<br>Nickles:")
+            document.write(n);
+            document.write("<br>Pennies:")
+            document.write(r); */
+        }
+      </script>
+
+</body>
+<footer>
+
+</footer>
+
+</html>

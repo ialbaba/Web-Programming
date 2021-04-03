@@ -25,7 +25,7 @@
                 <p> '.$row['message'].' </p>
             </div>';
             // query for finding all comments
-            $query = "select * FROM iba11.ForumReplies JOIN iba11.ForumUsers ON userid = idUsers WHERE topicID = ".$row['idTopics'].";";
+            $query = "select * FROM iba11.ForumReplies JOIN iba11.ForumUsers ON userid = idUsers WHERE topicID = ".$row['idTopics']." order by timestamp;";
             $result2 = mysqli_query($connection, $query);
             if(!$result){echo 'External Error 2. Try Again later!'; exit();}
             // looping through all comments 

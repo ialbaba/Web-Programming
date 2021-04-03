@@ -12,7 +12,6 @@
         $category = (int) $_POST['category'];
         $subject = mysqli_real_escape_string($connection, $_POST['subject']);
         $message = mysqli_real_escape_string($connection, $_POST['message']);
-        echo ($message);
         $query =    "insert into `iba11`.`ForumTopics`
                     (`timestamp`,
                     `subject`,
@@ -35,7 +34,7 @@
         {
             $return_msg .= "Topic Post Success!";
         }
-        
+
     }
 ?>
 <!DOCTYPE html>
