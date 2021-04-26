@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+
+    <title>Ibrahim Albaba</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com"> 
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Roboto+Mono:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <h1 id = "header"> Welcome Stranger</h1>
+    <form>
+        <label>Cliclk Button to view form:</label>
+        <input type = "button" onclick="openForm('form')" value = "Show Form!"></input>
+    </form>
+    <form>
+    <br>
+        <div style = "padding-left: 20px; border: double; display: none;" id = 'form'>
+            Name: <input name="name" id="name" type="text"> <br>
+            What classes are you in?: <br>
+            <input type="checkbox" id="class1" name="class1" value="infsci101">
+            <label for="vehicle1"> infsci101</label><br>
+            <input type="checkbox" id="class2" name="class2" value="infsci102">
+            <label for="vehicle2"> infsci102</label><br>
+            <input type="checkbox" id="class3" name="class3" value="infsci103">
+            <label for="vehicle3"> infsci103</label><br><br>
+            <label>Cliclk Button to view additional questions:</label>
+            <input type = "button" onclick="openForm('form2')" value = "Show Form!"></input>
+            <div id = "form2" style = "display: none;">
+                <label for="cars">What car do you drive:</label>
+                <select id="cars" name="cars">
+                <option value="jap">Japanese</option>
+                <option value="amer">American</option>
+                <option value="euro">European</option>
+                <option value="other">Other</option>
+                </select>
+                <br>
+                Major: <input name="major" id="major" type="text"> <br>
+            </div>
+            <br>
+            <br>
+            <button type="button" value="Submit" onclick="changeHeader()">Submit</button>
+        </div>
+    </form>
+    <script>
+        function openForm(form) {
+            var form_ = document.getElementById(form);
+            if (form_.style.display === "none") {
+                form_.style.display = "block";
+            } else {
+                form_.style.display = "none";
+            }
+        } 
+        function changeHeader(){
+            var name = document.getElementById("name");
+            if (name.value.length == 0){
+                var header = document.getElementById("header").innerHTML = "Welcome Stranger who thought it was too cool to input a name!";
+            }
+            else{
+                var header = document.getElementById("header").innerHTML = "Welcome " + name.value;
+            }
+        }
+    </script>
+</body>
+<footer>
+
+</footer>
+
+</html>
