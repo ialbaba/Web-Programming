@@ -7,10 +7,14 @@
     <title>PHP-MySQL forum</title>
     <link rel="stylesheet" href="styles.css" type="text/css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Orelega+One&family=Roboto&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Orelega+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-    <?php include "header.php";?>  
+    <?php include "header.php";
+          include "optionBar.php";
+          display_bar("Register now to add new bills and much more!");
+    ?> 
     <div class="register">
         <p class="sign" align="center">Register</p>
         <form class="form1">

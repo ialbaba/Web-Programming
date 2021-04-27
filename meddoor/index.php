@@ -11,18 +11,11 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-    <?php include "header.php";?> 
-    <div id="optionbar">
-        <spans id = "navtext">Hello, what would you like to do today?</span>
-        <div id = "navitems">
-            <a id="item" href="login.php"><i class="fa fa-search"></i> Browse Procedures</a>
-            <div class="vl"></div>
-            <a id="item" href="register.php"><i class="fa fa-search"></i> Browse Clinics</a>
-            <div class="vl"></div>
-            <a id="item" href="register.php"><i class="fa fa-edit"></i> Post A Bill</a>
-        </div>
-    </div>
-
+    <?php 
+        include "header.php";
+        include "optionBar.php";
+        display_bar();
+    ?> 
     <div class = "content">
 </div> 
 </body>

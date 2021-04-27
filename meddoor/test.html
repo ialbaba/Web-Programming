@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="A short description." />
+    <meta name="keywords" content="put, keywords, here" />
+    <title>PHP-MySQL forum</title>
+    <link rel="stylesheet" href="styles.css" type="text/css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Orelega+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="bill">
+        <p class="sign" align="center">Post A Bill</p>
+        <form class="form1">
+            <input class="un " type="text" align="center" placeholder="Billed Amount">
+            <input class="un " type="text" align="center" placeholder="Patient Payment">
+            <div class = "un" align="center"> 
+                <span class = "un" id="rangeValue">0</span>
+                <Input class="un" type="range" name "" value="0" min="0" max="1000" onChange="rangeSlide(this.value)" onmousemove="rangeSlide(this.value)"></Input>
+                    <script type="text/javascript">
+                        function rangeSlide(value) {
+                            document.getElementById('rangeValue').innerHTML = value;
+                        }
+                    </script>
+            </div>
+            <input class="un" type="tect" align="center" placeholder="Procedure">
+            <input class="un" type = "text" align="center" value = "Place of Service"></a>
+            <input class="submit" type = "submit" align="center" value = "Submit"></a>
+        </form>
+    </div>
+</div> 
+</body>
+</html>
