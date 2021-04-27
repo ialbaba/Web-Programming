@@ -1,0 +1,9311 @@
+
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (62.32,
+        15.598816839861376,
+        3,
+        1,
+        5,
+        2,
+        '2021-04-26 06:27:43.698702',
+        '2021-04-26 06:27:43.698714');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (102.03,
+        13.136906144524499,
+        3,
+        1,
+        4,
+        5,
+        '2021-04-26 06:27:43.698743',
+        '2021-04-26 06:27:43.698747');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (52.43,
+        11.595495401658203,
+        4,
+        1,
+        5,
+        5,
+        '2021-04-26 06:27:43.698769',
+        '2021-04-26 06:27:43.698772');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (53.25,
+        10.533057689932916,
+        3,
+        1,
+        1,
+        3,
+        '2021-04-26 06:27:43.698794',
+        '2021-04-26 06:27:43.698797');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (94.92,
+        14.968795200175673,
+        3,
+        1,
+        2,
+        4,
+        '2021-04-26 06:27:43.698818',
+        '2021-04-26 06:27:43.698821');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (55.02,
+        18.824852026505464,
+        4,
+        1,
+        5,
+        1,
+        '2021-04-26 06:27:43.698840',
+        '2021-04-26 06:27:43.698843');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (56.32,
+        4.367980904124353,
+        3,
+        1,
+        2,
+        2,
+        '2021-04-26 06:27:43.698862',
+        '2021-04-26 06:27:43.698865');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (79.81,
+        20.42967888176974,
+        3,
+        1,
+        3,
+        1,
+        '2021-04-26 06:27:43.698884',
+        '2021-04-26 06:27:43.698887');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (74.61,
+        22.235859407320206,
+        3,
+        1,
+        4,
+        5,
+        '2021-04-26 06:27:43.698907',
+        '2021-04-26 06:27:43.698910');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (75.04,
+        16.904171417481113,
+        4,
+        1,
+        5,
+        1,
+        '2021-04-26 06:27:43.698929',
+        '2021-04-26 06:27:43.698932');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (98.26,
+        15.877361832962524,
+        5,
+        1,
+        2,
+        5,
+        '2021-04-26 06:27:43.698951',
+        '2021-04-26 06:27:43.698953');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (64.81,
+        5.722588142639345,
+        4,
+        1,
+        2,
+        3,
+        '2021-04-26 06:27:43.698973',
+        '2021-04-26 06:27:43.698976');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (73.87,
+        12.537514915393281,
+        2,
+        1,
+        4,
+        1,
+        '2021-04-26 06:27:43.698995',
+        '2021-04-26 06:27:43.698998');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (54.41,
+        13.159355534344627,
+        3,
+        1,
+        1,
+        2,
+        '2021-04-26 06:27:43.699017',
+        '2021-04-26 06:27:43.699020');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (75.27,
+        15.373405811711862,
+        3,
+        2,
+        5,
+        3,
+        '2021-04-26 06:27:43.699150',
+        '2021-04-26 06:27:43.699156');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (74.91,
+        16.17569048489894,
+        4,
+        2,
+        4,
+        1,
+        '2021-04-26 06:27:43.699179',
+        '2021-04-26 06:27:43.699182');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (97.75,
+        34.59628557991048,
+        2,
+        2,
+        3,
+        2,
+        '2021-04-26 06:27:43.699203',
+        '2021-04-26 06:27:43.699205');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (143.87,
+        28.9819081602519,
+        4,
+        2,
+        2,
+        1,
+        '2021-04-26 06:27:43.699226',
+        '2021-04-26 06:27:43.699229');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (102.7,
+        27.106991038733476,
+        2,
+        2,
+        2,
+        5,
+        '2021-04-26 06:27:43.699249',
+        '2021-04-26 06:27:43.699252');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (127.5,
+        12.238692874220273,
+        4,
+        2,
+        1,
+        2,
+        '2021-04-26 06:27:43.699272',
+        '2021-04-26 06:27:43.699275');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (133.31,
+        19.912325798513027,
+        4,
+        2,
+        5,
+        1,
+        '2021-04-26 06:27:43.699295',
+        '2021-04-26 06:27:43.699298');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (73.99,
+        20.324406790520236,
+        3,
+        2,
+        2,
+        5,
+        '2021-04-26 06:27:43.699317',
+        '2021-04-26 06:27:43.699320');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (94.81,
+        26.944740335038524,
+        3,
+        2,
+        1,
+        3,
+        '2021-04-26 06:27:43.699339',
+        '2021-04-26 06:27:43.699342');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (91.37,
+        19.196129165293843,
+        4,
+        2,
+        3,
+        3,
+        '2021-04-26 06:27:43.699363',
+        '2021-04-26 06:27:43.699365');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (144.99,
+        26.602540389625865,
+        5,
+        2,
+        5,
+        1,
+        '2021-04-26 06:27:43.699385',
+        '2021-04-26 06:27:43.699388');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (122.22,
+        33.02218324546954,
+        3,
+        2,
+        5,
+        4,
+        '2021-04-26 06:27:43.699408',
+        '2021-04-26 06:27:43.699410');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (140.64,
+        23.593656597590748,
+        2,
+        2,
+        2,
+        5,
+        '2021-04-26 06:27:43.699430',
+        '2021-04-26 06:27:43.699433');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (118.6,
+        22.721417592492994,
+        3,
+        2,
+        5,
+        3,
+        '2021-04-26 06:27:43.699453',
+        '2021-04-26 06:27:43.699456');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (141.11,
+        18.000342449695406,
+        4,
+        3,
+        4,
+        5,
+        '2021-04-26 06:27:43.699575',
+        '2021-04-26 06:27:43.699580');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (95.71,
+        14.28016702886632,
+        4,
+        3,
+        4,
+        2,
+        '2021-04-26 06:27:43.699603',
+        '2021-04-26 06:27:43.699606');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (159.24,
+        15.092069322528916,
+        3,
+        3,
+        2,
+        3,
+        '2021-04-26 06:27:43.699628',
+        '2021-04-26 06:27:43.699631');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (163.67,
+        33.84740240820313,
+        5,
+        3,
+        4,
+        3,
+        '2021-04-26 06:27:43.699653',
+        '2021-04-26 06:27:43.699656');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (143.79,
+        19.094168981238482,
+        3,
+        3,
+        2,
+        4,
+        '2021-04-26 06:27:43.699676',
+        '2021-04-26 06:27:43.699679');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (138.78,
+        40.01097293850032,
+        4,
+        3,
+        3,
+        3,
+        '2021-04-26 06:27:43.699700',
+        '2021-04-26 06:27:43.699703');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (112.59,
+        17.763270565043342,
+        5,
+        3,
+        4,
+        5,
+        '2021-04-26 06:27:43.699723',
+        '2021-04-26 06:27:43.699726');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (93.43,
+        30.641644710015278,
+        2,
+        3,
+        4,
+        4,
+        '2021-04-26 06:27:43.699746',
+        '2021-04-26 06:27:43.699749');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (145.35,
+        20.580045068810115,
+        4,
+        3,
+        5,
+        2,
+        '2021-04-26 06:27:43.699769',
+        '2021-04-26 06:27:43.699772');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (118.13,
+        31.35364849978272,
+        4,
+        3,
+        2,
+        2,
+        '2021-04-26 06:27:43.699792',
+        '2021-04-26 06:27:43.699795');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (162.69,
+        28.807803325967082,
+        5,
+        3,
+        4,
+        4,
+        '2021-04-26 06:27:43.699816',
+        '2021-04-26 06:27:43.699819');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (99.45,
+        27.406701547063168,
+        4,
+        3,
+        2,
+        4,
+        '2021-04-26 06:27:43.699839',
+        '2021-04-26 06:27:43.699842');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (93.78,
+        28.22928145536405,
+        5,
+        3,
+        2,
+        2,
+        '2021-04-26 06:27:43.699861',
+        '2021-04-26 06:27:43.699864');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (89.53,
+        25.46709516509451,
+        2,
+        3,
+        2,
+        2,
+        '2021-04-26 06:27:43.699884',
+        '2021-04-26 06:27:43.699887');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (237.34,
+        54.725724462676496,
+        3,
+        4,
+        4,
+        1,
+        '2021-04-26 06:27:43.700009',
+        '2021-04-26 06:27:43.700014');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (275.11,
+        20.655127473485663,
+        5,
+        4,
+        2,
+        3,
+        '2021-04-26 06:27:43.700038',
+        '2021-04-26 06:27:43.700042');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (268.0,
+        29.41001034770576,
+        3,
+        4,
+        3,
+        1,
+        '2021-04-26 06:27:43.700063',
+        '2021-04-26 06:27:43.700066');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (193.57,
+        71.21207770807439,
+        3,
+        4,
+        2,
+        3,
+        '2021-04-26 06:27:43.700087',
+        '2021-04-26 06:27:43.700090');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (231.64,
+        38.55718572355431,
+        4,
+        4,
+        4,
+        5,
+        '2021-04-26 06:27:43.700110',
+        '2021-04-26 06:27:43.700113');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (207.13,
+        40.30956799951258,
+        4,
+        4,
+        1,
+        1,
+        '2021-04-26 06:27:43.700133',
+        '2021-04-26 06:27:43.700136');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (160.31,
+        79.02060034112165,
+        4,
+        4,
+        5,
+        3,
+        '2021-04-26 06:27:43.700156',
+        '2021-04-26 06:27:43.700158');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (151.62,
+        45.572164812198366,
+        4,
+        4,
+        2,
+        5,
+        '2021-04-26 06:27:43.700179',
+        '2021-04-26 06:27:43.700182');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (271.49,
+        47.75652493263188,
+        5,
+        4,
+        4,
+        3,
+        '2021-04-26 06:27:43.700203',
+        '2021-04-26 06:27:43.700205');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (228.68,
+        26.562269649355787,
+        3,
+        4,
+        1,
+        3,
+        '2021-04-26 06:27:43.700226',
+        '2021-04-26 06:27:43.700229');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (209.68,
+        74.6107538108274,
+        2,
+        4,
+        5,
+        2,
+        '2021-04-26 06:27:43.700248',
+        '2021-04-26 06:27:43.700251');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (284.22,
+        54.2458301459226,
+        3,
+        4,
+        3,
+        2,
+        '2021-04-26 06:27:43.700272',
+        '2021-04-26 06:27:43.700275');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (234.08,
+        36.340509724551545,
+        4,
+        4,
+        4,
+        3,
+        '2021-04-26 06:27:43.700294',
+        '2021-04-26 06:27:43.700297');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (193.25,
+        73.21644811136503,
+        2,
+        4,
+        1,
+        2,
+        '2021-04-26 06:27:43.700318',
+        '2021-04-26 06:27:43.700320');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (70.36,
+        25.31215697953878,
+        4,
+        5,
+        3,
+        3,
+        '2021-04-26 06:27:43.700441',
+        '2021-04-26 06:27:43.700445');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (85.13,
+        33.16344123551,
+        4,
+        5,
+        3,
+        5,
+        '2021-04-26 06:27:43.700469',
+        '2021-04-26 06:27:43.700473');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (115.68,
+        21.745844279597105,
+        3,
+        5,
+        5,
+        2,
+        '2021-04-26 06:27:43.700496',
+        '2021-04-26 06:27:43.700499');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (73.45,
+        29.580703858083094,
+        3,
+        5,
+        3,
+        5,
+        '2021-04-26 06:27:43.700520',
+        '2021-04-26 06:27:43.700523');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (88.77,
+        10.373396703211156,
+        3,
+        5,
+        3,
+        2,
+        '2021-04-26 06:27:43.700543',
+        '2021-04-26 06:27:43.700546');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (122.92,
+        13.557552225086338,
+        4,
+        5,
+        4,
+        5,
+        '2021-04-26 06:27:43.700567',
+        '2021-04-26 06:27:43.700570');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (86.68,
+        30.99830774620226,
+        5,
+        5,
+        1,
+        4,
+        '2021-04-26 06:27:43.700590',
+        '2021-04-26 06:27:43.700593');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (88.89,
+        20.467464509784914,
+        4,
+        5,
+        2,
+        2,
+        '2021-04-26 06:27:43.700613',
+        '2021-04-26 06:27:43.700616');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (127.39,
+        12.284132252795576,
+        4,
+        5,
+        5,
+        2,
+        '2021-04-26 06:27:43.700636',
+        '2021-04-26 06:27:43.700639');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (69.19,
+        26.27693312324099,
+        4,
+        5,
+        3,
+        5,
+        '2021-04-26 06:27:43.700659',
+        '2021-04-26 06:27:43.700662');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (75.85,
+        18.050975994298895,
+        3,
+        5,
+        5,
+        5,
+        '2021-04-26 06:27:43.700685',
+        '2021-04-26 06:27:43.700688');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (75.77,
+        27.144451196685374,
+        4,
+        5,
+        3,
+        1,
+        '2021-04-26 06:27:43.700708',
+        '2021-04-26 06:27:43.700711');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (99.08,
+        13.381912473998112,
+        3,
+        5,
+        1,
+        3,
+        '2021-04-26 06:27:43.700731',
+        '2021-04-26 06:27:43.700734');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (114.54,
+        12.83465142952259,
+        5,
+        5,
+        1,
+        4,
+        '2021-04-26 06:27:43.700754',
+        '2021-04-26 06:27:43.700757');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (180.71,
+        39.76811442304139,
+        5,
+        6,
+        2,
+        5,
+        '2021-04-26 06:27:43.700879',
+        '2021-04-26 06:27:43.700884');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (103.86,
+        23.609815562821076,
+        3,
+        6,
+        1,
+        5,
+        '2021-04-26 06:27:43.700909',
+        '2021-04-26 06:27:43.700912');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (117.96,
+        33.51405928641294,
+        4,
+        6,
+        5,
+        2,
+        '2021-04-26 06:27:43.700935',
+        '2021-04-26 06:27:43.700938');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (104.27,
+        31.274224453822765,
+        4,
+        6,
+        1,
+        4,
+        '2021-04-26 06:27:43.700960',
+        '2021-04-26 06:27:43.700963');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (135.5,
+        21.634564051973978,
+        3,
+        6,
+        4,
+        1,
+        '2021-04-26 06:27:43.700984',
+        '2021-04-26 06:27:43.700987');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (118.4,
+        31.95496192107696,
+        4,
+        6,
+        4,
+        4,
+        '2021-04-26 06:27:43.701007',
+        '2021-04-26 06:27:43.701010');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (156.88,
+        22.05015947593542,
+        3,
+        6,
+        2,
+        3,
+        '2021-04-26 06:27:43.701033',
+        '2021-04-26 06:27:43.701036');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (150.71,
+        43.45983902933757,
+        3,
+        6,
+        5,
+        1,
+        '2021-04-26 06:27:43.701057',
+        '2021-04-26 06:27:43.701060');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (165.05,
+        23.570663071339467,
+        2,
+        6,
+        5,
+        1,
+        '2021-04-26 06:27:43.701080',
+        '2021-04-26 06:27:43.701083');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (144.11,
+        39.49757903418098,
+        3,
+        6,
+        3,
+        1,
+        '2021-04-26 06:27:43.701104',
+        '2021-04-26 06:27:43.701106');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (163.89,
+        27.704870374332568,
+        2,
+        6,
+        5,
+        3,
+        '2021-04-26 06:27:43.701128',
+        '2021-04-26 06:27:43.701131');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (134.98,
+        41.31705965540723,
+        4,
+        6,
+        4,
+        5,
+        '2021-04-26 06:27:43.701152',
+        '2021-04-26 06:27:43.701155');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (158.54,
+        29.287665481004165,
+        4,
+        6,
+        4,
+        5,
+        '2021-04-26 06:27:43.701175',
+        '2021-04-26 06:27:43.701178');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (163.7,
+        31.36323872627881,
+        2,
+        6,
+        1,
+        3,
+        '2021-04-26 06:27:43.701198',
+        '2021-04-26 06:27:43.701201');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (211.31,
+        44.0206528961399,
+        3,
+        7,
+        1,
+        5,
+        '2021-04-26 06:27:43.701325',
+        '2021-04-26 06:27:43.701330');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (287.66,
+        42.66960230831455,
+        2,
+        7,
+        2,
+        2,
+        '2021-04-26 06:27:43.701356',
+        '2021-04-26 06:27:43.701360');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (175.92,
+        59.38712338295817,
+        2,
+        7,
+        3,
+        5,
+        '2021-04-26 06:27:43.701429',
+        '2021-04-26 06:27:43.701433');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (285.63,
+        42.568990246542945,
+        4,
+        7,
+        1,
+        5,
+        '2021-04-26 06:27:43.701459',
+        '2021-04-26 06:27:43.701462');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (286.6,
+        65.45690450893039,
+        4,
+        7,
+        2,
+        2,
+        '2021-04-26 06:27:43.701488',
+        '2021-04-26 06:27:43.701491');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (257.59,
+        49.16522720526058,
+        1,
+        7,
+        1,
+        3,
+        '2021-04-26 06:27:43.701514',
+        '2021-04-26 06:27:43.701517');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (196.5,
+        65.66585377826492,
+        4,
+        7,
+        1,
+        3,
+        '2021-04-26 06:27:43.701539',
+        '2021-04-26 06:27:43.701542');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (296.24,
+        30.77660212720806,
+        2,
+        7,
+        1,
+        4,
+        '2021-04-26 06:27:43.701564',
+        '2021-04-26 06:27:43.701567');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (283.04,
+        21.185786720679527,
+        4,
+        7,
+        3,
+        3,
+        '2021-04-26 06:27:43.701590',
+        '2021-04-26 06:27:43.701593');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (300.49,
+        53.00463027506879,
+        4,
+        7,
+        2,
+        4,
+        '2021-04-26 06:27:43.701615',
+        '2021-04-26 06:27:43.701619');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (229.81,
+        57.147877337948714,
+        4,
+        7,
+        2,
+        1,
+        '2021-04-26 06:27:43.701641',
+        '2021-04-26 06:27:43.701644');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (203.06,
+        58.18038216078469,
+        4,
+        7,
+        3,
+        2,
+        '2021-04-26 06:27:43.701666',
+        '2021-04-26 06:27:43.701668');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (274.12,
+        87.67504635356848,
+        4,
+        7,
+        1,
+        3,
+        '2021-04-26 06:27:43.701690',
+        '2021-04-26 06:27:43.701693');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (168.15,
+        56.333799448903015,
+        5,
+        7,
+        4,
+        4,
+        '2021-04-26 06:27:43.701722',
+        '2021-04-26 06:27:43.701726');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (29.53,
+        2.7907734947188727,
+        4,
+        8,
+        2,
+        1,
+        '2021-04-26 06:27:43.701898',
+        '2021-04-26 06:27:43.701903');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (47.57,
+        5.794488592499578,
+        3,
+        8,
+        2,
+        5,
+        '2021-04-26 06:27:43.701941',
+        '2021-04-26 06:27:43.701946');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (49.6,
+        5.214857776298659,
+        4,
+        8,
+        5,
+        2,
+        '2021-04-26 06:27:43.701970',
+        '2021-04-26 06:27:43.701973');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (43.7,
+        7.960795519406816,
+        2,
+        8,
+        4,
+        1,
+        '2021-04-26 06:27:43.701995',
+        '2021-04-26 06:27:43.701998');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (28.42,
+        10.855442635035297,
+        4,
+        8,
+        2,
+        1,
+        '2021-04-26 06:27:43.702021',
+        '2021-04-26 06:27:43.702024');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (55.15,
+        9.583538398404109,
+        5,
+        8,
+        5,
+        1,
+        '2021-04-26 06:27:43.702046',
+        '2021-04-26 06:27:43.702049');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (55.22,
+        4.740308715616573,
+        3,
+        8,
+        4,
+        4,
+        '2021-04-26 06:27:43.702071',
+        '2021-04-26 06:27:43.702074');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (31.98,
+        11.015492805178038,
+        3,
+        8,
+        5,
+        2,
+        '2021-04-26 06:27:43.702096',
+        '2021-04-26 06:27:43.702099');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (31.75,
+        3.0238878267262788,
+        2,
+        8,
+        1,
+        2,
+        '2021-04-26 06:27:43.702120',
+        '2021-04-26 06:27:43.702123');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (43.19,
+        9.160873238249685,
+        4,
+        8,
+        2,
+        1,
+        '2021-04-26 06:27:43.702145',
+        '2021-04-26 06:27:43.702148');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (38.92,
+        7.517722559887312,
+        3,
+        8,
+        2,
+        3,
+        '2021-04-26 06:27:43.702313',
+        '2021-04-26 06:27:43.702317');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (46.85,
+        11.356868310014473,
+        4,
+        8,
+        4,
+        2,
+        '2021-04-26 06:27:43.702394',
+        '2021-04-26 06:27:43.702398');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (45.93,
+        7.180626853259915,
+        4,
+        8,
+        5,
+        4,
+        '2021-04-26 06:27:43.702422',
+        '2021-04-26 06:27:43.702425');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (51.31,
+        5.683576502459152,
+        3,
+        8,
+        2,
+        1,
+        '2021-04-26 06:27:43.702447',
+        '2021-04-26 06:27:43.702450');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (146.83,
+        44.16198097265,
+        3,
+        9,
+        3,
+        1,
+        '2021-04-26 06:27:43.702642',
+        '2021-04-26 06:27:43.702647');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (215.9,
+        11.404886098703532,
+        3,
+        9,
+        5,
+        4,
+        '2021-04-26 06:27:43.702681',
+        '2021-04-26 06:27:43.702684');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (130.84,
+        37.650191599396095,
+        5,
+        9,
+        5,
+        1,
+        '2021-04-26 06:27:43.702710',
+        '2021-04-26 06:27:43.702713');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (203.95,
+        19.892449979500316,
+        3,
+        9,
+        3,
+        2,
+        '2021-04-26 06:27:43.702737',
+        '2021-04-26 06:27:43.702740');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (146.49,
+        40.7452192977378,
+        3,
+        9,
+        5,
+        3,
+        '2021-04-26 06:27:43.702763',
+        '2021-04-26 06:27:43.702766');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (161.21,
+        13.730386698879045,
+        4,
+        9,
+        5,
+        2,
+        '2021-04-26 06:27:43.702789',
+        '2021-04-26 06:27:43.702792');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (183.47,
+        39.55091499403267,
+        4,
+        9,
+        2,
+        3,
+        '2021-04-26 06:27:43.702815',
+        '2021-04-26 06:27:43.702818');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (206.8,
+        38.408985345372926,
+        4,
+        9,
+        5,
+        3,
+        '2021-04-26 06:27:43.702879',
+        '2021-04-26 06:27:43.702882');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (215.79,
+        42.4873076198938,
+        3,
+        9,
+        1,
+        3,
+        '2021-04-26 06:27:43.702959',
+        '2021-04-26 06:27:43.702963');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (153.24,
+        28.533947053583663,
+        5,
+        9,
+        1,
+        2,
+        '2021-04-26 06:27:43.702989',
+        '2021-04-26 06:27:43.702992');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (161.1,
+        33.1976385848942,
+        4,
+        9,
+        5,
+        4,
+        '2021-04-26 06:27:43.703016',
+        '2021-04-26 06:27:43.703019');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (197.04,
+        24.304598753642452,
+        5,
+        9,
+        4,
+        2,
+        '2021-04-26 06:27:43.703042',
+        '2021-04-26 06:27:43.703230');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (164.51,
+        30.000049478229627,
+        3,
+        9,
+        3,
+        1,
+        '2021-04-26 06:27:43.703290',
+        '2021-04-26 06:27:43.703295');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (174.06,
+        22.55961394156698,
+        2,
+        9,
+        4,
+        2,
+        '2021-04-26 06:27:43.703325',
+        '2021-04-26 06:27:43.703329');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (121.52,
+        33.51192159721919,
+        3,
+        10,
+        2,
+        1,
+        '2021-04-26 06:27:43.703516',
+        '2021-04-26 06:27:43.703522');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (116.71,
+        6.279798829754316,
+        5,
+        10,
+        3,
+        2,
+        '2021-04-26 06:27:43.703552',
+        '2021-04-26 06:27:43.703556');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (101.53,
+        24.74128208020385,
+        4,
+        10,
+        3,
+        2,
+        '2021-04-26 06:27:43.703582',
+        '2021-04-26 06:27:43.703585');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (112.04,
+        17.79728426942861,
+        2,
+        10,
+        5,
+        1,
+        '2021-04-26 06:27:43.703744',
+        '2021-04-26 06:27:43.703749');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (133.88,
+        32.07165112185162,
+        3,
+        10,
+        1,
+        5,
+        '2021-04-26 06:27:43.703827',
+        '2021-04-26 06:27:43.703831');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (160.32,
+        14.03012459712876,
+        5,
+        10,
+        4,
+        5,
+        '2021-04-26 06:27:43.703856',
+        '2021-04-26 06:27:43.703859');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (128.6,
+        20.652973669297214,
+        5,
+        10,
+        3,
+        2,
+        '2021-04-26 06:27:43.703883',
+        '2021-04-26 06:27:43.703886');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (100.6,
+        19.5490756108398,
+        5,
+        10,
+        5,
+        5,
+        '2021-04-26 06:27:43.703909',
+        '2021-04-26 06:27:43.703912');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (130.99,
+        21.678390244539976,
+        3,
+        10,
+        3,
+        2,
+        '2021-04-26 06:27:43.703936',
+        '2021-04-26 06:27:43.703939');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (124.51,
+        31.767288077938087,
+        3,
+        10,
+        1,
+        4,
+        '2021-04-26 06:27:43.703963',
+        '2021-04-26 06:27:43.703966');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (115.0,
+        38.843124390647226,
+        3,
+        10,
+        1,
+        2,
+        '2021-04-26 06:27:43.703989',
+        '2021-04-26 06:27:43.703992');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (172.57,
+        36.695796583181114,
+        2,
+        10,
+        3,
+        3,
+        '2021-04-26 06:27:43.704015',
+        '2021-04-26 06:27:43.704018');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (140.19,
+        23.16044035601164,
+        3,
+        10,
+        4,
+        2,
+        '2021-04-26 06:27:43.704041',
+        '2021-04-26 06:27:43.704044');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (123.26,
+        38.691946403498314,
+        4,
+        10,
+        4,
+        4,
+        '2021-04-26 06:27:43.704067',
+        '2021-04-26 06:27:43.704070');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (112.52,
+        34.43790656100804,
+        4,
+        11,
+        2,
+        5,
+        '2021-04-26 06:27:43.704264',
+        '2021-04-26 06:27:43.704270');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (84.52,
+        21.764103135628645,
+        3,
+        11,
+        3,
+        5,
+        '2021-04-26 06:27:43.704356',
+        '2021-04-26 06:27:43.704360');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (117.74,
+        21.980067689179986,
+        3,
+        11,
+        3,
+        2,
+        '2021-04-26 06:27:43.704387',
+        '2021-04-26 06:27:43.704390');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (103.2,
+        36.087311405979065,
+        2,
+        11,
+        1,
+        1,
+        '2021-04-26 06:27:43.704415',
+        '2021-04-26 06:27:43.704418');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (132.31,
+        24.884858948549052,
+        3,
+        11,
+        2,
+        3,
+        '2021-04-26 06:27:43.704442',
+        '2021-04-26 06:27:43.704445');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (76.96,
+        15.482762706756356,
+        3,
+        11,
+        1,
+        4,
+        '2021-04-26 06:27:43.704485',
+        '2021-04-26 06:27:43.704488');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (119.02,
+        18.100648041339113,
+        3,
+        11,
+        5,
+        1,
+        '2021-04-26 06:27:43.704510',
+        '2021-04-26 06:27:43.704513');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (101.34,
+        16.12808724489117,
+        2,
+        11,
+        3,
+        4,
+        '2021-04-26 06:27:43.704536',
+        '2021-04-26 06:27:43.704539');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (120.43,
+        21.512159849067913,
+        2,
+        11,
+        5,
+        5,
+        '2021-04-26 06:27:43.704563',
+        '2021-04-26 06:27:43.704565');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (118.55,
+        12.588574525233728,
+        4,
+        11,
+        5,
+        3,
+        '2021-04-26 06:27:43.704589',
+        '2021-04-26 06:27:43.704592');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (131.37,
+        19.43165108081308,
+        4,
+        11,
+        4,
+        1,
+        '2021-04-26 06:27:43.704615',
+        '2021-04-26 06:27:43.704618');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (131.96,
+        20.58970792015729,
+        3,
+        11,
+        1,
+        2,
+        '2021-04-26 06:27:43.704716',
+        '2021-04-26 06:27:43.704720');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (131.36,
+        19.77978178909796,
+        5,
+        11,
+        4,
+        5,
+        '2021-04-26 06:27:43.704809',
+        '2021-04-26 06:27:43.704812');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (74.45,
+        26.675349385901505,
+        4,
+        11,
+        5,
+        5,
+        '2021-04-26 06:27:43.704837',
+        '2021-04-26 06:27:43.704840');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (248.84,
+        31.373114258407202,
+        2,
+        12,
+        1,
+        4,
+        '2021-04-26 06:27:43.704994',
+        '2021-04-26 06:27:43.704999');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (209.91,
+        39.868640639161654,
+        3,
+        12,
+        2,
+        3,
+        '2021-04-26 06:27:43.705026',
+        '2021-04-26 06:27:43.705030');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (174.3,
+        39.99271647303104,
+        3,
+        12,
+        5,
+        5,
+        '2021-04-26 06:27:43.705055',
+        '2021-04-26 06:27:43.705058');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (263.8,
+        59.62971035145329,
+        4,
+        12,
+        2,
+        2,
+        '2021-04-26 06:27:43.705082',
+        '2021-04-26 06:27:43.705085');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (190.48,
+        30.246626505672737,
+        3,
+        12,
+        1,
+        5,
+        '2021-04-26 06:27:43.705109',
+        '2021-04-26 06:27:43.705112');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (230.54,
+        17.827245653355856,
+        4,
+        12,
+        3,
+        4,
+        '2021-04-26 06:27:43.705136',
+        '2021-04-26 06:27:43.705139');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (155.6,
+        53.988763656891045,
+        4,
+        12,
+        1,
+        5,
+        '2021-04-26 06:27:43.705162',
+        '2021-04-26 06:27:43.705165');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (149.47,
+        28.06011510329125,
+        4,
+        12,
+        5,
+        5,
+        '2021-04-26 06:27:43.705189',
+        '2021-04-26 06:27:43.705192');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (262.09,
+        41.30591361267053,
+        3,
+        12,
+        1,
+        3,
+        '2021-04-26 06:27:43.705254',
+        '2021-04-26 06:27:43.705257');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (145.89,
+        46.39110695363155,
+        3,
+        12,
+        5,
+        5,
+        '2021-04-26 06:27:43.705333',
+        '2021-04-26 06:27:43.705337');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (272.35,
+        12.032411410127732,
+        5,
+        12,
+        4,
+        2,
+        '2021-04-26 06:27:43.705361',
+        '2021-04-26 06:27:43.705364');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (210.04,
+        23.955382788111987,
+        2,
+        12,
+        3,
+        2,
+        '2021-04-26 06:27:43.705388',
+        '2021-04-26 06:27:43.705391');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (176.36,
+        36.04465305861601,
+        3,
+        12,
+        2,
+        4,
+        '2021-04-26 06:27:43.705414',
+        '2021-04-26 06:27:43.705417');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (150.67,
+        27.248234549099163,
+        4,
+        12,
+        1,
+        1,
+        '2021-04-26 06:27:43.705457',
+        '2021-04-26 06:27:43.705460');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (179.99,
+        74.61883783009777,
+        4,
+        13,
+        3,
+        2,
+        '2021-04-26 06:27:43.705597',
+        '2021-04-26 06:27:43.705602');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (233.11,
+        62.169365681541365,
+        3,
+        13,
+        2,
+        5,
+        '2021-04-26 06:27:43.705631',
+        '2021-04-26 06:27:43.705635');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (325.64,
+        63.23132370313601,
+        4,
+        13,
+        4,
+        4,
+        '2021-04-26 06:27:43.705661',
+        '2021-04-26 06:27:43.705664');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (325.65,
+        49.363872120746045,
+        4,
+        13,
+        3,
+        4,
+        '2021-04-26 06:27:43.705689',
+        '2021-04-26 06:27:43.705692');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (223.59,
+        55.219507661589276,
+        5,
+        13,
+        3,
+        3,
+        '2021-04-26 06:27:43.705836',
+        '2021-04-26 06:27:43.705840');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (219.85,
+        69.87508819735372,
+        2,
+        13,
+        4,
+        2,
+        '2021-04-26 06:27:43.705925',
+        '2021-04-26 06:27:43.705929');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (328.83,
+        46.387125172648574,
+        2,
+        13,
+        5,
+        1,
+        '2021-04-26 06:27:43.705955',
+        '2021-04-26 06:27:43.705958');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (185.59,
+        0.17560458508173393,
+        2,
+        13,
+        2,
+        1,
+        '2021-04-26 06:27:43.705983',
+        '2021-04-26 06:27:43.705987');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (313.32,
+        60.23940127523112,
+        2,
+        13,
+        1,
+        4,
+        '2021-04-26 06:27:43.706012',
+        '2021-04-26 06:27:43.706015');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (256.09,
+        65.22468267464022,
+        2,
+        13,
+        5,
+        1,
+        '2021-04-26 06:27:43.706040',
+        '2021-04-26 06:27:43.706043');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (309.27,
+        49.6567895140652,
+        3,
+        13,
+        1,
+        4,
+        '2021-04-26 06:27:43.706067',
+        '2021-04-26 06:27:43.706070');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (273.6,
+        60.77818786915443,
+        4,
+        13,
+        1,
+        5,
+        '2021-04-26 06:27:43.706095',
+        '2021-04-26 06:27:43.706098');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (187.16,
+        52.983443731946124,
+        5,
+        13,
+        3,
+        3,
+        '2021-04-26 06:27:43.706122',
+        '2021-04-26 06:27:43.706125');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (213.1,
+        30.99289659233393,
+        3,
+        13,
+        2,
+        4,
+        '2021-04-26 06:27:43.706149',
+        '2021-04-26 06:27:43.706152');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (229.3,
+        46.60845889447754,
+        4,
+        14,
+        1,
+        1,
+        '2021-04-26 06:27:43.706291',
+        '2021-04-26 06:27:43.706297');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (409.58,
+        99.84493222357638,
+        2,
+        14,
+        5,
+        4,
+        '2021-04-26 06:27:43.706370',
+        '2021-04-26 06:27:43.706373');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (397.7,
+        83.88228229148292,
+        5,
+        14,
+        2,
+        5,
+        '2021-04-26 06:27:43.706452',
+        '2021-04-26 06:27:43.706456');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (330.44,
+        74.18295493145594,
+        5,
+        14,
+        5,
+        3,
+        '2021-04-26 06:27:43.706499',
+        '2021-04-26 06:27:43.706503');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (223.88,
+        24.218690173868872,
+        2,
+        14,
+        3,
+        4,
+        '2021-04-26 06:27:43.706527',
+        '2021-04-26 06:27:43.706530');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (387.24,
+        45.630113666648484,
+        5,
+        14,
+        5,
+        1,
+        '2021-04-26 06:27:43.706555',
+        '2021-04-26 06:27:43.706558');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (248.14,
+        75.59736105275864,
+        4,
+        14,
+        3,
+        3,
+        '2021-04-26 06:27:43.706582',
+        '2021-04-26 06:27:43.706585');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (430.29,
+        132.36962286588476,
+        3,
+        14,
+        2,
+        1,
+        '2021-04-26 06:27:43.706611',
+        '2021-04-26 06:27:43.706614');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (393.87,
+        53.53832783364667,
+        3,
+        14,
+        4,
+        3,
+        '2021-04-26 06:27:43.706638',
+        '2021-04-26 06:27:43.706640');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (339.67,
+        62.50400896817145,
+        4,
+        14,
+        1,
+        2,
+        '2021-04-26 06:27:43.706664',
+        '2021-04-26 06:27:43.706667');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (300.35,
+        8.043472452030102,
+        4,
+        14,
+        2,
+        5,
+        '2021-04-26 06:27:43.706692',
+        '2021-04-26 06:27:43.706695');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (280.29,
+        70.36240339990619,
+        3,
+        14,
+        3,
+        2,
+        '2021-04-26 06:27:43.706718',
+        '2021-04-26 06:27:43.706721');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (230.22,
+        58.48226562686613,
+        4,
+        14,
+        5,
+        2,
+        '2021-04-26 06:27:43.706788',
+        '2021-04-26 06:27:43.706791');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (220.66,
+        38.37809135727781,
+        4,
+        14,
+        2,
+        5,
+        '2021-04-26 06:27:43.706858',
+        '2021-04-26 06:27:43.706862');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (280.19,
+        53.00252572519014,
+        4,
+        15,
+        4,
+        2,
+        '2021-04-26 06:27:43.706999',
+        '2021-04-26 06:27:43.707004');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (245.25,
+        25.31956723212469,
+        3,
+        15,
+        4,
+        1,
+        '2021-04-26 06:27:43.707033',
+        '2021-04-26 06:27:43.707036');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (280.76,
+        108.70863149891514,
+        2,
+        15,
+        5,
+        5,
+        '2021-04-26 06:27:43.707062',
+        '2021-04-26 06:27:43.707065');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (442.21,
+        43.22264940521887,
+        5,
+        15,
+        3,
+        5,
+        '2021-04-26 06:27:43.707090',
+        '2021-04-26 06:27:43.707093');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (336.2,
+        83.43643221129496,
+        3,
+        15,
+        1,
+        5,
+        '2021-04-26 06:27:43.707116',
+        '2021-04-26 06:27:43.707119');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (387.99,
+        45.829925907639385,
+        4,
+        15,
+        2,
+        5,
+        '2021-04-26 06:27:43.707144',
+        '2021-04-26 06:27:43.707147');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (367.3,
+        40.264412515426585,
+        2,
+        15,
+        4,
+        2,
+        '2021-04-26 06:27:43.707172',
+        '2021-04-26 06:27:43.707175');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (254.49,
+        71.03957656976476,
+        5,
+        15,
+        1,
+        5,
+        '2021-04-26 06:27:43.707199',
+        '2021-04-26 06:27:43.707202');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (247.23,
+        59.26567639314106,
+        3,
+        15,
+        2,
+        4,
+        '2021-04-26 06:27:43.707301',
+        '2021-04-26 06:27:43.707309');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (368.46,
+        86.5390489130172,
+        2,
+        15,
+        2,
+        3,
+        '2021-04-26 06:27:43.707428',
+        '2021-04-26 06:27:43.707436');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (284.84,
+        112.16087499762075,
+        3,
+        15,
+        4,
+        5,
+        '2021-04-26 06:27:43.707498',
+        '2021-04-26 06:27:43.707502');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (311.87,
+        64.99905338730115,
+        2,
+        15,
+        3,
+        3,
+        '2021-04-26 06:27:43.707531',
+        '2021-04-26 06:27:43.707534');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (461.47,
+        92.25121925651153,
+        2,
+        15,
+        1,
+        3,
+        '2021-04-26 06:27:43.707561',
+        '2021-04-26 06:27:43.707564');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (478.72,
+        52.33497334747836,
+        4,
+        15,
+        4,
+        3,
+        '2021-04-26 06:27:43.707591',
+        '2021-04-26 06:27:43.707594');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (163.78,
+        30.122082366204438,
+        2,
+        16,
+        3,
+        3,
+        '2021-04-26 06:27:43.707750',
+        '2021-04-26 06:27:43.707755');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (227.89,
+        27.301030185804752,
+        4,
+        16,
+        3,
+        2,
+        '2021-04-26 06:27:43.707785',
+        '2021-04-26 06:27:43.707788');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (195.27,
+        37.40769797668483,
+        3,
+        16,
+        5,
+        1,
+        '2021-04-26 06:27:43.707815',
+        '2021-04-26 06:27:43.707818');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (254.85,
+        30.91287247002941,
+        4,
+        16,
+        3,
+        5,
+        '2021-04-26 06:27:43.707844',
+        '2021-04-26 06:27:43.707847');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (298.0,
+        60.495932832920076,
+        4,
+        16,
+        4,
+        5,
+        '2021-04-26 06:27:43.707872',
+        '2021-04-26 06:27:43.707875');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (219.86,
+        81.38840487265773,
+        3,
+        16,
+        5,
+        5,
+        '2021-04-26 06:27:43.707953',
+        '2021-04-26 06:27:43.707957');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (170.47,
+        76.94596361265886,
+        3,
+        16,
+        5,
+        5,
+        '2021-04-26 06:27:43.708029',
+        '2021-04-26 06:27:43.708033');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (325.75,
+        54.17718230160644,
+        4,
+        16,
+        2,
+        3,
+        '2021-04-26 06:27:43.708059',
+        '2021-04-26 06:27:43.708063');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (271.84,
+        42.15587065379281,
+        4,
+        16,
+        4,
+        4,
+        '2021-04-26 06:27:43.708088',
+        '2021-04-26 06:27:43.708091');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (263.4,
+        62.22433492159632,
+        5,
+        16,
+        5,
+        3,
+        '2021-04-26 06:27:43.708115',
+        '2021-04-26 06:27:43.708119');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (261.67,
+        31.59554237083442,
+        3,
+        16,
+        5,
+        3,
+        '2021-04-26 06:27:43.708144',
+        '2021-04-26 06:27:43.708147');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (306.7,
+        77.5985865454079,
+        4,
+        16,
+        1,
+        4,
+        '2021-04-26 06:27:43.708172',
+        '2021-04-26 06:27:43.708175');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (325.01,
+        60.52743871932884,
+        4,
+        16,
+        4,
+        4,
+        '2021-04-26 06:27:43.708199',
+        '2021-04-26 06:27:43.708203');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (240.28,
+        57.01365128333427,
+        3,
+        16,
+        5,
+        4,
+        '2021-04-26 06:27:43.708227',
+        '2021-04-26 06:27:43.708230');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (272.11,
+        82.17396223185283,
+        3,
+        17,
+        2,
+        1,
+        '2021-04-26 06:27:43.708548',
+        '2021-04-26 06:27:43.708557');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (378.66,
+        33.666605545510315,
+        3,
+        17,
+        4,
+        3,
+        '2021-04-26 06:27:43.708594',
+        '2021-04-26 06:27:43.708598');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (243.33,
+        13.15011760964466,
+        3,
+        17,
+        4,
+        3,
+        '2021-04-26 06:27:43.708691',
+        '2021-04-26 06:27:43.708695');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (370.96,
+        77.28160326071783,
+        2,
+        17,
+        2,
+        2,
+        '2021-04-26 06:27:43.708767',
+        '2021-04-26 06:27:43.708772');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (271.08,
+        75.19617804548432,
+        3,
+        17,
+        4,
+        4,
+        '2021-04-26 06:27:43.708799',
+        '2021-04-26 06:27:43.708802');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (218.9,
+        62.60274090624234,
+        2,
+        17,
+        4,
+        3,
+        '2021-04-26 06:27:43.708827',
+        '2021-04-26 06:27:43.708830');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (266.41,
+        77.8711598495643,
+        5,
+        17,
+        4,
+        1,
+        '2021-04-26 06:27:43.708855',
+        '2021-04-26 06:27:43.708858');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (380.31,
+        88.63563108152788,
+        4,
+        17,
+        2,
+        5,
+        '2021-04-26 06:27:43.708884',
+        '2021-04-26 06:27:43.708887');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (230.87,
+        48.18605859804538,
+        4,
+        17,
+        4,
+        2,
+        '2021-04-26 06:27:43.708912',
+        '2021-04-26 06:27:43.708915');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (212.94,
+        33.944685116358826,
+        4,
+        17,
+        3,
+        1,
+        '2021-04-26 06:27:43.708940',
+        '2021-04-26 06:27:43.708943');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (290.19,
+        54.0970496053028,
+        4,
+        17,
+        2,
+        3,
+        '2021-04-26 06:27:43.708968',
+        '2021-04-26 06:27:43.708971');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (304.88,
+        84.45275739734485,
+        2,
+        17,
+        4,
+        5,
+        '2021-04-26 06:27:43.708996',
+        '2021-04-26 06:27:43.708999');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (226.96,
+        82.16182508457122,
+        5,
+        17,
+        4,
+        5,
+        '2021-04-26 06:27:43.709024',
+        '2021-04-26 06:27:43.709027');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (210.55,
+        77.73544370617878,
+        3,
+        17,
+        4,
+        3,
+        '2021-04-26 06:27:43.709107',
+        '2021-04-26 06:27:43.709110');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (420.36,
+        110.65796015288268,
+        2,
+        18,
+        5,
+        5,
+        '2021-04-26 06:27:43.709271',
+        '2021-04-26 06:27:43.709277');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (296.74,
+        43.63013090196147,
+        4,
+        18,
+        3,
+        3,
+        '2021-04-26 06:27:43.709308',
+        '2021-04-26 06:27:43.709311');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (325.2,
+        79.30219036864307,
+        3,
+        18,
+        3,
+        4,
+        '2021-04-26 06:27:43.709338',
+        '2021-04-26 06:27:43.709341');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (402.71,
+        88.42721067416645,
+        4,
+        18,
+        4,
+        1,
+        '2021-04-26 06:27:43.709367',
+        '2021-04-26 06:27:43.709370');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (446.28,
+        74.3650667598447,
+        3,
+        18,
+        2,
+        4,
+        '2021-04-26 06:27:43.709396',
+        '2021-04-26 06:27:43.709399');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (385.01,
+        151.6308150763232,
+        3,
+        18,
+        2,
+        4,
+        '2021-04-26 06:27:43.709424',
+        '2021-04-26 06:27:43.709427');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (403.32,
+        107.51988963233632,
+        4,
+        18,
+        3,
+        2,
+        '2021-04-26 06:27:43.709453',
+        '2021-04-26 06:27:43.709456');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (469.8,
+        64.13512843767107,
+        3,
+        18,
+        2,
+        5,
+        '2021-04-26 06:27:43.709482',
+        '2021-04-26 06:27:43.709500');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (452.53,
+        47.33077313284864,
+        3,
+        18,
+        3,
+        5,
+        '2021-04-26 06:27:43.709525',
+        '2021-04-26 06:27:43.709528');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (249.69,
+        87.66982308087218,
+        1,
+        18,
+        3,
+        1,
+        '2021-04-26 06:27:43.709669',
+        '2021-04-26 06:27:43.709673');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (371.53,
+        51.60941948384189,
+        4,
+        18,
+        5,
+        1,
+        '2021-04-26 06:27:43.709711',
+        '2021-04-26 06:27:43.709714');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (396.35,
+        74.57130775379794,
+        5,
+        18,
+        4,
+        2,
+        '2021-04-26 06:27:43.709752',
+        '2021-04-26 06:27:43.709758');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (291.91,
+        73.44526337197574,
+        3,
+        18,
+        5,
+        5,
+        '2021-04-26 06:27:43.709787',
+        '2021-04-26 06:27:43.709790');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (252.88,
+        62.4297733329484,
+        2,
+        18,
+        3,
+        1,
+        '2021-04-26 06:27:43.709814',
+        '2021-04-26 06:27:43.709817');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (497.14,
+        79.05130835413794,
+        5,
+        19,
+        4,
+        4,
+        '2021-04-26 06:27:43.709956',
+        '2021-04-26 06:27:43.709961');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (468.84,
+        75.45739433645166,
+        3,
+        19,
+        2,
+        4,
+        '2021-04-26 06:27:43.709990',
+        '2021-04-26 06:27:43.709993');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (326.25,
+        77.90485992294583,
+        5,
+        19,
+        3,
+        2,
+        '2021-04-26 06:27:43.710019',
+        '2021-04-26 06:27:43.710022');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (489.27,
+        72.0396052918597,
+        1,
+        19,
+        3,
+        3,
+        '2021-04-26 06:27:43.710047',
+        '2021-04-26 06:27:43.710050');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (292.46,
+        108.84826145305708,
+        2,
+        19,
+        2,
+        5,
+        '2021-04-26 06:27:43.710074',
+        '2021-04-26 06:27:43.710077');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (370.41,
+        96.79069410100719,
+        5,
+        19,
+        2,
+        3,
+        '2021-04-26 06:27:43.710103',
+        '2021-04-26 06:27:43.710106');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (477.36,
+        48.62403233607684,
+        4,
+        19,
+        2,
+        2,
+        '2021-04-26 06:27:43.710184',
+        '2021-04-26 06:27:43.710187');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (316.22,
+        107.78851275133498,
+        3,
+        19,
+        4,
+        1,
+        '2021-04-26 06:27:43.710224',
+        '2021-04-26 06:27:43.710227');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (472.36,
+        87.30264489746568,
+        2,
+        19,
+        5,
+        2,
+        '2021-04-26 06:27:43.710253',
+        '2021-04-26 06:27:43.710256');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (433.06,
+        74.96057070538366,
+        2,
+        19,
+        5,
+        1,
+        '2021-04-26 06:27:43.710280',
+        '2021-04-26 06:27:43.710283');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (384.43,
+        80.83258062116958,
+        4,
+        19,
+        4,
+        3,
+        '2021-04-26 06:27:43.710308',
+        '2021-04-26 06:27:43.710310');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (460.98,
+        63.27317393083948,
+        4,
+        19,
+        4,
+        5,
+        '2021-04-26 06:27:43.710335',
+        '2021-04-26 06:27:43.710338');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (505.59,
+        115.61312541442375,
+        5,
+        19,
+        4,
+        4,
+        '2021-04-26 06:27:43.710362',
+        '2021-04-26 06:27:43.710365');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (332.41,
+        53.517337124923706,
+        3,
+        19,
+        1,
+        2,
+        '2021-04-26 06:27:43.710389',
+        '2021-04-26 06:27:43.710392');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (585.92,
+        112.31348849331123,
+        3,
+        20,
+        2,
+        1,
+        '2021-04-26 06:27:43.710521',
+        '2021-04-26 06:27:43.710526');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (885.93,
+        157.42374634882603,
+        3,
+        20,
+        3,
+        2,
+        '2021-04-26 06:27:43.710554',
+        '2021-04-26 06:27:43.710557');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (866.1,
+        124.02670601124332,
+        4,
+        20,
+        3,
+        3,
+        '2021-04-26 06:27:43.710583',
+        '2021-04-26 06:27:43.710586');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (619.54,
+        297.84539644096765,
+        3,
+        20,
+        1,
+        2,
+        '2021-04-26 06:27:43.710684',
+        '2021-04-26 06:27:43.710687');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (769.68,
+        215.0941899509311,
+        5,
+        20,
+        4,
+        5,
+        '2021-04-26 06:27:43.710731',
+        '2021-04-26 06:27:43.710735');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (680.09,
+        131.38088680807098,
+        3,
+        20,
+        2,
+        5,
+        '2021-04-26 06:27:43.710761',
+        '2021-04-26 06:27:43.710764');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (637.29,
+        229.1994055666933,
+        3,
+        20,
+        1,
+        1,
+        '2021-04-26 06:27:43.710789',
+        '2021-04-26 06:27:43.710792');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (913.06,
+        169.20695053624982,
+        3,
+        20,
+        2,
+        3,
+        '2021-04-26 06:27:43.710817',
+        '2021-04-26 06:27:43.710820');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (908.67,
+        165.1773084298674,
+        2,
+        20,
+        5,
+        4,
+        '2021-04-26 06:27:43.710846',
+        '2021-04-26 06:27:43.710849');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (736.81,
+        196.11842629588585,
+        3,
+        20,
+        1,
+        2,
+        '2021-04-26 06:27:43.710874',
+        '2021-04-26 06:27:43.710877');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (912.39,
+        90.06392473889927,
+        4,
+        20,
+        3,
+        3,
+        '2021-04-26 06:27:43.710902',
+        '2021-04-26 06:27:43.710905');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (727.31,
+        158.48642343446375,
+        3,
+        20,
+        1,
+        2,
+        '2021-04-26 06:27:43.710930',
+        '2021-04-26 06:27:43.710932');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (690.9,
+        237.98166175453298,
+        1,
+        20,
+        4,
+        4,
+        '2021-04-26 06:27:43.710957',
+        '2021-04-26 06:27:43.710960');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (620.94,
+        177.82418555463187,
+        5,
+        20,
+        4,
+        5,
+        '2021-04-26 06:27:43.711106',
+        '2021-04-26 06:27:43.711110');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (519.16,
+        87.40571171467279,
+        5,
+        21,
+        3,
+        3,
+        '2021-04-26 06:27:43.711259',
+        '2021-04-26 06:27:43.711265');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (421.31,
+        123.1765056800519,
+        3,
+        21,
+        4,
+        4,
+        '2021-04-26 06:27:43.711294',
+        '2021-04-26 06:27:43.711297');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (578.75,
+        174.95744913569382,
+        2,
+        21,
+        2,
+        3,
+        '2021-04-26 06:27:43.711324',
+        '2021-04-26 06:27:43.711327');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (374.44,
+        97.21194990081496,
+        5,
+        21,
+        1,
+        1,
+        '2021-04-26 06:27:43.711352',
+        '2021-04-26 06:27:43.711355');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (387.03,
+        31.056194478469212,
+        3,
+        21,
+        1,
+        2,
+        '2021-04-26 06:27:43.711381',
+        '2021-04-26 06:27:43.711384');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (421.26,
+        114.21910345456652,
+        2,
+        21,
+        2,
+        4,
+        '2021-04-26 06:27:43.711409',
+        '2021-04-26 06:27:43.711412');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (337.0,
+        87.66849334463167,
+        4,
+        21,
+        1,
+        3,
+        '2021-04-26 06:27:43.711437',
+        '2021-04-26 06:27:43.711440');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (367.15,
+        148.31885867840714,
+        4,
+        21,
+        5,
+        2,
+        '2021-04-26 06:27:43.711466',
+        '2021-04-26 06:27:43.711469');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (554.5,
+        104.74227143596603,
+        3,
+        21,
+        2,
+        2,
+        '2021-04-26 06:27:43.711495',
+        '2021-04-26 06:27:43.711498');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (615.22,
+        117.62613134030947,
+        3,
+        21,
+        2,
+        2,
+        '2021-04-26 06:27:43.711523',
+        '2021-04-26 06:27:43.711526');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (607.34,
+        107.02269075453624,
+        3,
+        21,
+        2,
+        3,
+        '2021-04-26 06:27:43.711607',
+        '2021-04-26 06:27:43.711610');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (531.71,
+        169.8244303724868,
+        2,
+        21,
+        5,
+        3,
+        '2021-04-26 06:27:43.711647',
+        '2021-04-26 06:27:43.711650');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (392.27,
+        75.26636743592555,
+        4,
+        21,
+        1,
+        5,
+        '2021-04-26 06:27:43.711676',
+        '2021-04-26 06:27:43.711679');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (594.2,
+        111.80252616857565,
+        5,
+        21,
+        4,
+        2,
+        '2021-04-26 06:27:43.711704',
+        '2021-04-26 06:27:43.711707');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2171.97,
+        413.2130283730998,
+        4,
+        22,
+        2,
+        4,
+        '2021-04-26 06:27:43.711838',
+        '2021-04-26 06:27:43.711843');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1696.84,
+        288.2885090252842,
+        3,
+        22,
+        2,
+        2,
+        '2021-04-26 06:27:43.711872',
+        '2021-04-26 06:27:43.711875');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1751.43,
+        298.52910994455806,
+        2,
+        22,
+        4,
+        5,
+        '2021-04-26 06:27:43.711902',
+        '2021-04-26 06:27:43.711905');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2109.52,
+        299.6836244012538,
+        2,
+        22,
+        1,
+        5,
+        '2021-04-26 06:27:43.711931',
+        '2021-04-26 06:27:43.711934');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2024.29,
+        201.43630248004354,
+        4,
+        22,
+        5,
+        3,
+        '2021-04-26 06:27:43.711960',
+        '2021-04-26 06:27:43.711963');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1316.44,
+        422.11829904471153,
+        3,
+        22,
+        1,
+        2,
+        '2021-04-26 06:27:43.711988',
+        '2021-04-26 06:27:43.711991');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1390.59,
+        381.2107350432213,
+        4,
+        22,
+        1,
+        1,
+        '2021-04-26 06:27:43.712016',
+        '2021-04-26 06:27:43.712019');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1269.74,
+        372.77349295981884,
+        3,
+        22,
+        4,
+        2,
+        '2021-04-26 06:27:43.712103',
+        '2021-04-26 06:27:43.712106');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1298.58,
+        124.31612015499816,
+        2,
+        22,
+        4,
+        4,
+        '2021-04-26 06:27:43.712151',
+        '2021-04-26 06:27:43.712155');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1654.21,
+        335.7296167182095,
+        5,
+        22,
+        1,
+        2,
+        '2021-04-26 06:27:43.712181',
+        '2021-04-26 06:27:43.712184');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1564.38,
+        328.99186143512406,
+        5,
+        22,
+        2,
+        2,
+        '2021-04-26 06:27:43.712210',
+        '2021-04-26 06:27:43.712213');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2225.49,
+        279.72104213903725,
+        4,
+        22,
+        1,
+        4,
+        '2021-04-26 06:27:43.712238',
+        '2021-04-26 06:27:43.712241');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2217.94,
+        448.69396804907063,
+        2,
+        22,
+        2,
+        1,
+        '2021-04-26 06:27:43.712266',
+        '2021-04-26 06:27:43.712269');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1999.76,
+        114.04347751634805,
+        3,
+        22,
+        2,
+        5,
+        '2021-04-26 06:27:43.712294',
+        '2021-04-26 06:27:43.712297');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1900.72,
+        267.89149335354085,
+        3,
+        23,
+        4,
+        1,
+        '2021-04-26 06:27:43.712423',
+        '2021-04-26 06:27:43.712428');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1779.11,
+        253.0044778027611,
+        4,
+        23,
+        5,
+        4,
+        '2021-04-26 06:27:43.712457',
+        '2021-04-26 06:27:43.712460');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1454.22,
+        239.03177589856887,
+        4,
+        23,
+        4,
+        4,
+        '2021-04-26 06:27:43.712487',
+        '2021-04-26 06:27:43.712490');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2185.93,
+        362.1616997039892,
+        3,
+        23,
+        5,
+        3,
+        '2021-04-26 06:27:43.712516',
+        '2021-04-26 06:27:43.712519');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1797.17,
+        461.1831299526528,
+        5,
+        23,
+        2,
+        1,
+        '2021-04-26 06:27:43.712610',
+        '2021-04-26 06:27:43.712613');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1146.35,
+        485.8288504764689,
+        3,
+        23,
+        2,
+        2,
+        '2021-04-26 06:27:43.712652',
+        '2021-04-26 06:27:43.712656');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1506.16,
+        177.30953382967087,
+        4,
+        23,
+        5,
+        4,
+        '2021-04-26 06:27:43.712682',
+        '2021-04-26 06:27:43.712685');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2068.18,
+        362.6337936839997,
+        3,
+        23,
+        5,
+        2,
+        '2021-04-26 06:27:43.712711',
+        '2021-04-26 06:27:43.712714');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1885.13,
+        458.89814604774455,
+        3,
+        23,
+        2,
+        2,
+        '2021-04-26 06:27:43.712739',
+        '2021-04-26 06:27:43.712742');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1441.79,
+        510.1074050893779,
+        5,
+        23,
+        1,
+        3,
+        '2021-04-26 06:27:43.712768',
+        '2021-04-26 06:27:43.712771');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1682.43,
+        503.92945570072817,
+        3,
+        23,
+        5,
+        5,
+        '2021-04-26 06:27:43.712796',
+        '2021-04-26 06:27:43.712799');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1756.53,
+        238.47547485935692,
+        4,
+        23,
+        2,
+        4,
+        '2021-04-26 06:27:43.712824',
+        '2021-04-26 06:27:43.712827');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1485.38,
+        417.03362498019743,
+        3,
+        23,
+        5,
+        3,
+        '2021-04-26 06:27:43.712852',
+        '2021-04-26 06:27:43.712855');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1759.41,
+        299.02613600468584,
+        2,
+        23,
+        4,
+        3,
+        '2021-04-26 06:27:43.712880',
+        '2021-04-26 06:27:43.712883');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1097.21,
+        360.2093259932192,
+        4,
+        24,
+        4,
+        1,
+        '2021-04-26 06:27:43.713071',
+        '2021-04-26 06:27:43.713076');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1905.09,
+        178.3154077314862,
+        4,
+        24,
+        3,
+        3,
+        '2021-04-26 06:27:43.713118',
+        '2021-04-26 06:27:43.713121');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1205.97,
+        341.57316679582823,
+        3,
+        24,
+        5,
+        5,
+        '2021-04-26 06:27:43.713149',
+        '2021-04-26 06:27:43.713152');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1961.79,
+        421.5843414364823,
+        3,
+        24,
+        1,
+        4,
+        '2021-04-26 06:27:43.713178',
+        '2021-04-26 06:27:43.713181');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1275.52,
+        267.4727687229813,
+        2,
+        24,
+        2,
+        2,
+        '2021-04-26 06:27:43.713207',
+        '2021-04-26 06:27:43.713210');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1021.64,
+        135.02908842766368,
+        4,
+        24,
+        3,
+        3,
+        '2021-04-26 06:27:43.713236',
+        '2021-04-26 06:27:43.713239');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1343.41,
+        241.64567411630009,
+        5,
+        24,
+        1,
+        5,
+        '2021-04-26 06:27:43.713265',
+        '2021-04-26 06:27:43.713268');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1018.79,
+        426.6019556287261,
+        3,
+        24,
+        3,
+        4,
+        '2021-04-26 06:27:43.713293',
+        '2021-04-26 06:27:43.713296');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1921.55,
+        223.7452391035551,
+        3,
+        24,
+        4,
+        3,
+        '2021-04-26 06:27:43.713322',
+        '2021-04-26 06:27:43.713325');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1247.59,
+        368.8481754680305,
+        4,
+        24,
+        1,
+        1,
+        '2021-04-26 06:27:43.713351',
+        '2021-04-26 06:27:43.713354');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1918.56,
+        316.598825024012,
+        3,
+        24,
+        4,
+        4,
+        '2021-04-26 06:27:43.713379',
+        '2021-04-26 06:27:43.713382');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1036.87,
+        476.7066623096418,
+        3,
+        24,
+        2,
+        4,
+        '2021-04-26 06:27:43.713474',
+        '2021-04-26 06:27:43.713478');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1253.09,
+        37.75107844611591,
+        2,
+        24,
+        3,
+        5,
+        '2021-04-26 06:27:43.713518',
+        '2021-04-26 06:27:43.713522');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1719.94,
+        241.70922382163087,
+        4,
+        24,
+        4,
+        4,
+        '2021-04-26 06:27:43.713549',
+        '2021-04-26 06:27:43.713552');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1796.14,
+        275.28458569010036,
+        4,
+        25,
+        3,
+        1,
+        '2021-04-26 06:27:43.713683',
+        '2021-04-26 06:27:43.713687');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2009.62,
+        456.47917663661354,
+        4,
+        25,
+        1,
+        4,
+        '2021-04-26 06:27:43.713717',
+        '2021-04-26 06:27:43.713720');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2117.77,
+        314.2966907843888,
+        3,
+        25,
+        1,
+        3,
+        '2021-04-26 06:27:43.713748',
+        '2021-04-26 06:27:43.713751');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1647.67,
+        249.04760733561506,
+        3,
+        25,
+        2,
+        3,
+        '2021-04-26 06:27:43.713778',
+        '2021-04-26 06:27:43.713781');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1825.94,
+        565.9906012044045,
+        4,
+        25,
+        4,
+        1,
+        '2021-04-26 06:27:43.713807',
+        '2021-04-26 06:27:43.713810');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1519.17,
+        111.98634022892261,
+        4,
+        25,
+        4,
+        4,
+        '2021-04-26 06:27:43.713836',
+        '2021-04-26 06:27:43.713839');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1455.4,
+        269.16732981317455,
+        3,
+        25,
+        4,
+        4,
+        '2021-04-26 06:27:43.713865',
+        '2021-04-26 06:27:43.713867');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1813.66,
+        356.50826510000024,
+        3,
+        25,
+        3,
+        2,
+        '2021-04-26 06:27:43.713893',
+        '2021-04-26 06:27:43.713896');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1398.79,
+        439.69715917840114,
+        4,
+        25,
+        2,
+        2,
+        '2021-04-26 06:27:43.713996',
+        '2021-04-26 06:27:43.714000');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1742.82,
+        454.7092372090503,
+        4,
+        25,
+        5,
+        1,
+        '2021-04-26 06:27:43.714045',
+        '2021-04-26 06:27:43.714048');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1676.44,
+        333.3014538607908,
+        4,
+        25,
+        1,
+        4,
+        '2021-04-26 06:27:43.714076',
+        '2021-04-26 06:27:43.714079');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1423.12,
+        331.5530006728083,
+        3,
+        25,
+        3,
+        2,
+        '2021-04-26 06:27:43.714105',
+        '2021-04-26 06:27:43.714108');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1331.2,
+        414.2370842882907,
+        4,
+        25,
+        4,
+        5,
+        '2021-04-26 06:27:43.714134',
+        '2021-04-26 06:27:43.714137');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1731.0,
+        504.90890589496775,
+        3,
+        25,
+        2,
+        2,
+        '2021-04-26 06:27:43.714269',
+        '2021-04-26 06:27:43.714278');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (162.08,
+        31.91220019224106,
+        4,
+        26,
+        1,
+        4,
+        '2021-04-26 06:27:43.714516',
+        '2021-04-26 06:27:43.714523');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (201.58,
+        30.639902384967492,
+        4,
+        26,
+        1,
+        3,
+        '2021-04-26 06:27:43.714559',
+        '2021-04-26 06:27:43.714563');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (185.51,
+        61.14220200347725,
+        4,
+        26,
+        5,
+        3,
+        '2021-04-26 06:27:43.714592',
+        '2021-04-26 06:27:43.714596');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (180.39,
+        14.645298377817918,
+        3,
+        26,
+        2,
+        3,
+        '2021-04-26 06:27:43.714623',
+        '2021-04-26 06:27:43.714626');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (109.63,
+        39.58955629348476,
+        4,
+        26,
+        4,
+        5,
+        '2021-04-26 06:27:43.714779',
+        '2021-04-26 06:27:43.714783');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (166.92,
+        37.22405323399115,
+        4,
+        26,
+        2,
+        2,
+        '2021-04-26 06:27:43.714831',
+        '2021-04-26 06:27:43.714835');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (170.16,
+        29.926229836769288,
+        2,
+        26,
+        5,
+        1,
+        '2021-04-26 06:27:43.714863',
+        '2021-04-26 06:27:43.714866');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (126.93,
+        38.988568007111056,
+        3,
+        26,
+        5,
+        3,
+        '2021-04-26 06:27:43.714894',
+        '2021-04-26 06:27:43.714897');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (187.95,
+        17.96242504958722,
+        3,
+        26,
+        3,
+        5,
+        '2021-04-26 06:27:43.714989',
+        '2021-04-26 06:27:43.714998');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (141.62,
+        42.12757078055823,
+        4,
+        26,
+        1,
+        5,
+        '2021-04-26 06:27:43.715040',
+        '2021-04-26 06:27:43.715044');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (111.33,
+        35.82826124818351,
+        4,
+        26,
+        5,
+        5,
+        '2021-04-26 06:27:43.715074',
+        '2021-04-26 06:27:43.715077');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (128.17,
+        17.866055027767512,
+        4,
+        26,
+        4,
+        4,
+        '2021-04-26 06:27:43.715106',
+        '2021-04-26 06:27:43.715109');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (190.78,
+        31.087170780961934,
+        3,
+        26,
+        5,
+        2,
+        '2021-04-26 06:27:43.715138',
+        '2021-04-26 06:27:43.715141');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (152.28,
+        31.93365475590555,
+        4,
+        26,
+        1,
+        1,
+        '2021-04-26 06:27:43.715168',
+        '2021-04-26 06:27:43.715171');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1199.95,
+        321.90848714553806,
+        2,
+        27,
+        1,
+        4,
+        '2021-04-26 06:27:43.715360',
+        '2021-04-26 06:27:43.715365');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (958.59,
+        226.81500648648017,
+        4,
+        27,
+        2,
+        4,
+        '2021-04-26 06:27:43.715500',
+        '2021-04-26 06:27:43.715504');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (992.8,
+        246.10547426041782,
+        5,
+        27,
+        4,
+        3,
+        '2021-04-26 06:27:43.715557',
+        '2021-04-26 06:27:43.715561');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (955.41,
+        183.25829675253564,
+        2,
+        27,
+        2,
+        4,
+        '2021-04-26 06:27:43.715594',
+        '2021-04-26 06:27:43.715597');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1618.71,
+        238.37198402767797,
+        4,
+        27,
+        3,
+        5,
+        '2021-04-26 06:27:43.715624',
+        '2021-04-26 06:27:43.715627');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (993.21,
+        163.28386844727854,
+        4,
+        27,
+        5,
+        2,
+        '2021-04-26 06:27:43.715655',
+        '2021-04-26 06:27:43.715658');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1826.43,
+        195.82008130019545,
+        4,
+        27,
+        1,
+        2,
+        '2021-04-26 06:27:43.715685',
+        '2021-04-26 06:27:43.715688');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1315.45,
+        128.6086811591963,
+        3,
+        27,
+        2,
+        1,
+        '2021-04-26 06:27:43.715714',
+        '2021-04-26 06:27:43.715717');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1256.7,
+        82.09866448984972,
+        3,
+        27,
+        3,
+        2,
+        '2021-04-26 06:27:43.715744',
+        '2021-04-26 06:27:43.715747');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1124.77,
+        262.7478400421166,
+        5,
+        27,
+        5,
+        3,
+        '2021-04-26 06:27:43.715773',
+        '2021-04-26 06:27:43.715776');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1179.86,
+        158.86111196352954,
+        4,
+        27,
+        1,
+        5,
+        '2021-04-26 06:27:43.715802',
+        '2021-04-26 06:27:43.715805');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1106.33,
+        29.45078210399555,
+        2,
+        27,
+        4,
+        2,
+        '2021-04-26 06:27:43.715832',
+        '2021-04-26 06:27:43.715835');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1215.09,
+        255.56795590683166,
+        4,
+        27,
+        4,
+        4,
+        '2021-04-26 06:27:43.715933',
+        '2021-04-26 06:27:43.715937');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1310.26,
+        444.2171082174049,
+        3,
+        27,
+        1,
+        3,
+        '2021-04-26 06:27:43.715980',
+        '2021-04-26 06:27:43.715984');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1414.29,
+        282.44034380496754,
+        3,
+        28,
+        2,
+        5,
+        '2021-04-26 06:27:43.716133',
+        '2021-04-26 06:27:43.716138');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1180.19,
+        263.5278459445467,
+        3,
+        28,
+        1,
+        5,
+        '2021-04-26 06:27:43.716169',
+        '2021-04-26 06:27:43.716172');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (837.71,
+        218.2485441314405,
+        2,
+        28,
+        5,
+        4,
+        '2021-04-26 06:27:43.716200',
+        '2021-04-26 06:27:43.716203');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (886.6,
+        134.03305251120779,
+        3,
+        28,
+        1,
+        4,
+        '2021-04-26 06:27:43.716230',
+        '2021-04-26 06:27:43.716233');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1498.14,
+        343.4945530966424,
+        4,
+        28,
+        5,
+        3,
+        '2021-04-26 06:27:43.716260',
+        '2021-04-26 06:27:43.716263');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (854.62,
+        239.8883272116084,
+        4,
+        28,
+        3,
+        3,
+        '2021-04-26 06:27:43.716289',
+        '2021-04-26 06:27:43.716292');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1492.57,
+        179.9724246850867,
+        5,
+        28,
+        2,
+        3,
+        '2021-04-26 06:27:43.716319',
+        '2021-04-26 06:27:43.716322');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1265.69,
+        212.62159723666502,
+        5,
+        28,
+        3,
+        3,
+        '2021-04-26 06:27:43.716349',
+        '2021-04-26 06:27:43.716352');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1214.0,
+        122.46474923531969,
+        2,
+        28,
+        1,
+        1,
+        '2021-04-26 06:27:43.716452',
+        '2021-04-26 06:27:43.716455');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1037.18,
+        322.1981288511189,
+        4,
+        28,
+        1,
+        2,
+        '2021-04-26 06:27:43.716500',
+        '2021-04-26 06:27:43.716503');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1214.38,
+        171.04302714149952,
+        5,
+        28,
+        3,
+        4,
+        '2021-04-26 06:27:43.716531',
+        '2021-04-26 06:27:43.716534');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1481.97,
+        192.17564364164747,
+        4,
+        28,
+        2,
+        5,
+        '2021-04-26 06:27:43.716561',
+        '2021-04-26 06:27:43.716563');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1232.68,
+        280.42826298045026,
+        4,
+        28,
+        2,
+        2,
+        '2021-04-26 06:27:43.716590',
+        '2021-04-26 06:27:43.716593');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1239.1,
+        254.88667836870155,
+        4,
+        28,
+        4,
+        4,
+        '2021-04-26 06:27:43.716620',
+        '2021-04-26 06:27:43.716623');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1420.91,
+        372.7278056449356,
+        4,
+        29,
+        5,
+        1,
+        '2021-04-26 06:27:43.716752',
+        '2021-04-26 06:27:43.716757');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1710.09,
+        106.32135587106029,
+        2,
+        29,
+        1,
+        4,
+        '2021-04-26 06:27:43.716787',
+        '2021-04-26 06:27:43.716791');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1489.81,
+        297.6443775036198,
+        2,
+        29,
+        2,
+        1,
+        '2021-04-26 06:27:43.716819',
+        '2021-04-26 06:27:43.716822');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1605.8,
+        288.2113804490246,
+        4,
+        29,
+        5,
+        1,
+        '2021-04-26 06:27:43.716850',
+        '2021-04-26 06:27:43.716853');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1218.51,
+        318.94411482244954,
+        2,
+        29,
+        3,
+        5,
+        '2021-04-26 06:27:43.716880',
+        '2021-04-26 06:27:43.716883');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1497.73,
+        308.11081849913245,
+        3,
+        29,
+        2,
+        1,
+        '2021-04-26 06:27:43.716992',
+        '2021-04-26 06:27:43.716995');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1297.92,
+        210.04970330358626,
+        4,
+        29,
+        4,
+        2,
+        '2021-04-26 06:27:43.717038',
+        '2021-04-26 06:27:43.717041');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1637.83,
+        292.43617735091624,
+        2,
+        29,
+        3,
+        5,
+        '2021-04-26 06:27:43.717069',
+        '2021-04-26 06:27:43.717072');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1275.36,
+        222.58422984179273,
+        3,
+        29,
+        2,
+        1,
+        '2021-04-26 06:27:43.717099',
+        '2021-04-26 06:27:43.717102');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1275.61,
+        181.54803301035858,
+        4,
+        29,
+        2,
+        2,
+        '2021-04-26 06:27:43.717129',
+        '2021-04-26 06:27:43.717132');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1379.23,
+        385.6373419309774,
+        3,
+        29,
+        5,
+        5,
+        '2021-04-26 06:27:43.717159',
+        '2021-04-26 06:27:43.717162');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1246.01,
+        391.6787988401641,
+        2,
+        29,
+        2,
+        1,
+        '2021-04-26 06:27:43.717188',
+        '2021-04-26 06:27:43.717191');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1449.69,
+        209.01899089271885,
+        3,
+        29,
+        4,
+        4,
+        '2021-04-26 06:27:43.717218',
+        '2021-04-26 06:27:43.717221');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1586.0,
+        152.47286099207636,
+        4,
+        29,
+        4,
+        3,
+        '2021-04-26 06:27:43.717248',
+        '2021-04-26 06:27:43.717251');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1937.83,
+        327.4083243775253,
+        3,
+        30,
+        1,
+        1,
+        '2021-04-26 06:27:43.717377',
+        '2021-04-26 06:27:43.717382');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1744.25,
+        208.3614160973529,
+        2,
+        30,
+        3,
+        2,
+        '2021-04-26 06:27:43.717413',
+        '2021-04-26 06:27:43.717416');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1199.5,
+        431.81406995723023,
+        3,
+        30,
+        5,
+        5,
+        '2021-04-26 06:27:43.717530',
+        '2021-04-26 06:27:43.717533');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1960.31,
+        277.24581525145436,
+        2,
+        30,
+        2,
+        3,
+        '2021-04-26 06:27:43.717575',
+        '2021-04-26 06:27:43.717579');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1460.72,
+        265.48798773439756,
+        2,
+        30,
+        2,
+        2,
+        '2021-04-26 06:27:43.717606',
+        '2021-04-26 06:27:43.717609');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1144.44,
+        285.4233857647899,
+        3,
+        30,
+        1,
+        4,
+        '2021-04-26 06:27:43.717636',
+        '2021-04-26 06:27:43.717639');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1475.63,
+        265.14713196476697,
+        4,
+        30,
+        3,
+        4,
+        '2021-04-26 06:27:43.717665',
+        '2021-04-26 06:27:43.717668');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1840.67,
+        377.2864233734353,
+        3,
+        30,
+        3,
+        2,
+        '2021-04-26 06:27:43.717693',
+        '2021-04-26 06:27:43.717696');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1761.08,
+        414.30910761830756,
+        3,
+        30,
+        2,
+        2,
+        '2021-04-26 06:27:43.717722',
+        '2021-04-26 06:27:43.717725');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1496.64,
+        229.554633625795,
+        3,
+        30,
+        1,
+        5,
+        '2021-04-26 06:27:43.717751',
+        '2021-04-26 06:27:43.717754');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1267.65,
+        82.67803784653712,
+        3,
+        30,
+        5,
+        3,
+        '2021-04-26 06:27:43.717780',
+        '2021-04-26 06:27:43.717782');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1190.61,
+        350.07498872721465,
+        4,
+        30,
+        1,
+        4,
+        '2021-04-26 06:27:43.717808',
+        '2021-04-26 06:27:43.717811');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1110.17,
+        363.66138661314443,
+        4,
+        30,
+        5,
+        1,
+        '2021-04-26 06:27:43.717911',
+        '2021-04-26 06:27:43.717914');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2037.46,
+        286.39600668082585,
+        4,
+        30,
+        2,
+        4,
+        '2021-04-26 06:27:43.717954',
+        '2021-04-26 06:27:43.717958');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (262.84,
+        36.069720728572655,
+        3,
+        31,
+        2,
+        1,
+        '2021-04-26 06:27:43.718080',
+        '2021-04-26 06:27:43.718085');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (191.71,
+        38.80734830183788,
+        2,
+        31,
+        5,
+        5,
+        '2021-04-26 06:27:43.718115',
+        '2021-04-26 06:27:43.718118');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (224.81,
+        28.614819765011028,
+        5,
+        31,
+        3,
+        4,
+        '2021-04-26 06:27:43.718146',
+        '2021-04-26 06:27:43.718149');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (208.46,
+        45.897983917877355,
+        4,
+        31,
+        4,
+        4,
+        '2021-04-26 06:27:43.718230',
+        '2021-04-26 06:27:43.718238');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (161.83,
+        44.800402154027324,
+        5,
+        31,
+        1,
+        5,
+        '2021-04-26 06:27:43.718277',
+        '2021-04-26 06:27:43.718282');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (160.12,
+        28.642571263349218,
+        4,
+        31,
+        4,
+        4,
+        '2021-04-26 06:27:43.718316',
+        '2021-04-26 06:27:43.718319');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (162.47,
+        55.67593876252037,
+        5,
+        31,
+        5,
+        1,
+        '2021-04-26 06:27:43.718348',
+        '2021-04-26 06:27:43.718351');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (250.36,
+        34.30650142012818,
+        5,
+        31,
+        5,
+        4,
+        '2021-04-26 06:27:43.718379',
+        '2021-04-26 06:27:43.718382');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (194.23,
+        20.945580748469943,
+        4,
+        31,
+        4,
+        2,
+        '2021-04-26 06:27:43.718410',
+        '2021-04-26 06:27:43.718413');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (241.81,
+        45.69018189171167,
+        3,
+        31,
+        2,
+        4,
+        '2021-04-26 06:27:43.718527',
+        '2021-04-26 06:27:43.718530');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (192.38,
+        37.27758332739753,
+        2,
+        31,
+        2,
+        4,
+        '2021-04-26 06:27:43.718577',
+        '2021-04-26 06:27:43.718580');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (225.98,
+        73.35172374059674,
+        5,
+        31,
+        4,
+        5,
+        '2021-04-26 06:27:43.718609',
+        '2021-04-26 06:27:43.718611');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (159.71,
+        61.49466613901969,
+        4,
+        31,
+        4,
+        4,
+        '2021-04-26 06:27:43.718639',
+        '2021-04-26 06:27:43.718642');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (156.94,
+        26.258382636830046,
+        5,
+        31,
+        1,
+        2,
+        '2021-04-26 06:27:43.718670',
+        '2021-04-26 06:27:43.718673');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2393.99,
+        396.9457653323887,
+        3,
+        32,
+        1,
+        3,
+        '2021-04-26 06:27:43.718859',
+        '2021-04-26 06:27:43.718867');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2164.33,
+        401.97287510177944,
+        2,
+        32,
+        5,
+        5,
+        '2021-04-26 06:27:43.718919',
+        '2021-04-26 06:27:43.718923');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1990.53,
+        462.276264986613,
+        4,
+        32,
+        3,
+        2,
+        '2021-04-26 06:27:43.718955',
+        '2021-04-26 06:27:43.718958');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2313.4,
+        426.27427687377514,
+        4,
+        32,
+        4,
+        3,
+        '2021-04-26 06:27:43.718987',
+        '2021-04-26 06:27:43.718990');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2253.37,
+        367.5611871164034,
+        5,
+        32,
+        1,
+        4,
+        '2021-04-26 06:27:43.719019',
+        '2021-04-26 06:27:43.719022');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2419.71,
+        49.33690583611542,
+        4,
+        32,
+        5,
+        5,
+        '2021-04-26 06:27:43.719049',
+        '2021-04-26 06:27:43.719052');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1624.54,
+        378.7466571774663,
+        4,
+        32,
+        5,
+        1,
+        '2021-04-26 06:27:43.719171',
+        '2021-04-26 06:27:43.719176');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2520.14,
+        241.0999136903926,
+        3,
+        32,
+        5,
+        5,
+        '2021-04-26 06:27:43.719230',
+        '2021-04-26 06:27:43.719234');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1305.25,
+        797.0751194358922,
+        3,
+        32,
+        4,
+        3,
+        '2021-04-26 06:27:43.719270',
+        '2021-04-26 06:27:43.719273');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1631.9,
+        379.4849779001374,
+        3,
+        32,
+        4,
+        3,
+        '2021-04-26 06:27:43.719302',
+        '2021-04-26 06:27:43.719305');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1895.67,
+        552.8484199732494,
+        3,
+        32,
+        1,
+        2,
+        '2021-04-26 06:27:43.719332',
+        '2021-04-26 06:27:43.719335');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2500.56,
+        595.8649361919606,
+        3,
+        32,
+        4,
+        3,
+        '2021-04-26 06:27:43.719362',
+        '2021-04-26 06:27:43.719365');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2095.27,
+        366.5987803427558,
+        4,
+        32,
+        2,
+        4,
+        '2021-04-26 06:27:43.719393',
+        '2021-04-26 06:27:43.719395');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2278.61,
+        257.4291372799847,
+        4,
+        32,
+        2,
+        4,
+        '2021-04-26 06:27:43.719422',
+        '2021-04-26 06:27:43.719425');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1465.9,
+        326.6613341471676,
+        4,
+        33,
+        1,
+        3,
+        '2021-04-26 06:27:43.719620',
+        '2021-04-26 06:27:43.719625');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1528.82,
+        392.80178436500273,
+        5,
+        33,
+        5,
+        4,
+        '2021-04-26 06:27:43.719658',
+        '2021-04-26 06:27:43.719661');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1472.49,
+        440.36414801781217,
+        3,
+        33,
+        3,
+        4,
+        '2021-04-26 06:27:43.719691',
+        '2021-04-26 06:27:43.719694');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1794.69,
+        170.77302455236784,
+        3,
+        33,
+        4,
+        2,
+        '2021-04-26 06:27:43.719812',
+        '2021-04-26 06:27:43.719816');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1522.72,
+        360.27420874936286,
+        3,
+        33,
+        3,
+        2,
+        '2021-04-26 06:27:43.719870',
+        '2021-04-26 06:27:43.719873');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1149.07,
+        474.9490869037333,
+        2,
+        33,
+        2,
+        5,
+        '2021-04-26 06:27:43.719902',
+        '2021-04-26 06:27:43.719905');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1265.49,
+        352.605332943039,
+        3,
+        33,
+        2,
+        4,
+        '2021-04-26 06:27:43.719933',
+        '2021-04-26 06:27:43.719936');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2148.37,
+        437.4152607455743,
+        5,
+        33,
+        5,
+        1,
+        '2021-04-26 06:27:43.719965',
+        '2021-04-26 06:27:43.719968');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1231.45,
+        228.8513323700711,
+        4,
+        33,
+        1,
+        4,
+        '2021-04-26 06:27:43.719996',
+        '2021-04-26 06:27:43.719999');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1676.09,
+        284.62419334941575,
+        3,
+        33,
+        3,
+        1,
+        '2021-04-26 06:27:43.720027',
+        '2021-04-26 06:27:43.720030');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1688.33,
+        462.3054928244979,
+        5,
+        33,
+        5,
+        4,
+        '2021-04-26 06:27:43.720058',
+        '2021-04-26 06:27:43.720061');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1460.58,
+        453.9654400738576,
+        5,
+        33,
+        5,
+        4,
+        '2021-04-26 06:27:43.720089',
+        '2021-04-26 06:27:43.720092');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1208.26,
+        162.71584578751066,
+        4,
+        33,
+        4,
+        1,
+        '2021-04-26 06:27:43.720119',
+        '2021-04-26 06:27:43.720122');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1453.77,
+        236.6866257953346,
+        2,
+        33,
+        2,
+        2,
+        '2021-04-26 06:27:43.720239',
+        '2021-04-26 06:27:43.720242');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2411.13,
+        298.2335391403938,
+        3,
+        34,
+        4,
+        3,
+        '2021-04-26 06:27:43.720399',
+        '2021-04-26 06:27:43.720404');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1418.92,
+        673.924875286289,
+        3,
+        34,
+        4,
+        1,
+        '2021-04-26 06:27:43.720462',
+        '2021-04-26 06:27:43.720471');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2332.98,
+        481.62146904602713,
+        5,
+        34,
+        2,
+        3,
+        '2021-04-26 06:27:43.720550',
+        '2021-04-26 06:27:43.720553');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2270.03,
+        352.0367766842309,
+        5,
+        34,
+        5,
+        2,
+        '2021-04-26 06:27:43.720589',
+        '2021-04-26 06:27:43.720592');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2177.92,
+        575.4429072141377,
+        3,
+        34,
+        1,
+        2,
+        '2021-04-26 06:27:43.720621',
+        '2021-04-26 06:27:43.720625');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2722.24,
+        300.74903583079,
+        3,
+        34,
+        2,
+        1,
+        '2021-04-26 06:27:43.720653',
+        '2021-04-26 06:27:43.720656');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2693.72,
+        393.33147970241936,
+        4,
+        34,
+        1,
+        1,
+        '2021-04-26 06:27:43.720685',
+        '2021-04-26 06:27:43.720688');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2729.74,
+        426.3028203189277,
+        3,
+        34,
+        2,
+        1,
+        '2021-04-26 06:27:43.720716',
+        '2021-04-26 06:27:43.720719');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2785.4,
+        445.1773440708911,
+        3,
+        34,
+        2,
+        4,
+        '2021-04-26 06:27:43.720747',
+        '2021-04-26 06:27:43.720750');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2031.41,
+        351.9251680125547,
+        2,
+        34,
+        2,
+        1,
+        '2021-04-26 06:27:43.720778',
+        '2021-04-26 06:27:43.720781');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2372.03,
+        376.6479815640887,
+        3,
+        34,
+        2,
+        4,
+        '2021-04-26 06:27:43.720908',
+        '2021-04-26 06:27:43.720911');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1764.82,
+        195.70854474634686,
+        3,
+        34,
+        3,
+        1,
+        '2021-04-26 06:27:43.720960',
+        '2021-04-26 06:27:43.720963');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1528.31,
+        182.10993680138716,
+        4,
+        34,
+        4,
+        4,
+        '2021-04-26 06:27:43.720992',
+        '2021-04-26 06:27:43.720995');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2185.31,
+        444.5230168241727,
+        4,
+        34,
+        3,
+        1,
+        '2021-04-26 06:27:43.721022',
+        '2021-04-26 06:27:43.721025');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1810.82,
+        373.5713705478175,
+        5,
+        35,
+        2,
+        4,
+        '2021-04-26 06:27:43.721176',
+        '2021-04-26 06:27:43.721181');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2245.38,
+        454.08905554752886,
+        5,
+        35,
+        4,
+        2,
+        '2021-04-26 06:27:43.721213',
+        '2021-04-26 06:27:43.721216');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1710.42,
+        274.0410699890192,
+        3,
+        35,
+        4,
+        3,
+        '2021-04-26 06:27:43.721246',
+        '2021-04-26 06:27:43.721249');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2064.82,
+        266.0770298046216,
+        4,
+        35,
+        2,
+        3,
+        '2021-04-26 06:27:43.721277',
+        '2021-04-26 06:27:43.721280');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1661.63,
+        345.26797623056365,
+        4,
+        35,
+        1,
+        1,
+        '2021-04-26 06:27:43.721308',
+        '2021-04-26 06:27:43.721311');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1747.39,
+        385.37168463707815,
+        4,
+        35,
+        5,
+        2,
+        '2021-04-26 06:27:43.721339',
+        '2021-04-26 06:27:43.721342');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1732.28,
+        227.7149476413346,
+        3,
+        35,
+        3,
+        4,
+        '2021-04-26 06:27:43.721370',
+        '2021-04-26 06:27:43.721373');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1964.7,
+        251.1749059286915,
+        5,
+        35,
+        3,
+        4,
+        '2021-04-26 06:27:43.721505',
+        '2021-04-26 06:27:43.721509');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2092.07,
+        393.3316886948617,
+        4,
+        35,
+        3,
+        5,
+        '2021-04-26 06:27:43.721555',
+        '2021-04-26 06:27:43.721559');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2461.78,
+        501.7564161222495,
+        5,
+        35,
+        2,
+        4,
+        '2021-04-26 06:27:43.721586',
+        '2021-04-26 06:27:43.721589');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (1945.39,
+        268.96302658646835,
+        4,
+        35,
+        4,
+        1,
+        '2021-04-26 06:27:43.721616',
+        '2021-04-26 06:27:43.721618');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2308.65,
+        541.7585874752544,
+        3,
+        35,
+        2,
+        2,
+        '2021-04-26 06:27:43.721645',
+        '2021-04-26 06:27:43.721648');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2472.24,
+        410.2706207590665,
+        3,
+        35,
+        3,
+        5,
+        '2021-04-26 06:27:43.721675',
+        '2021-04-26 06:27:43.721678');
+
+INSERT INTO `iba11`.`Bills`
+        (`billedAmount`,
+        `patientAmount`,
+        `rating`,
+        `idProcedures`,
+        `idPlaces`,
+        `idUsers`,
+        `billDate`,
+        `entryDate`)
+        VALUES
+        (2231.4,
+        495.0562020702289,
+        4,
+        35,
+        1,
+        3,
+        '2021-04-26 06:27:43.721705',
+        '2021-04-26 06:27:43.721708');
