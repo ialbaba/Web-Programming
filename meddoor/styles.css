@@ -3,7 +3,7 @@ body {
     margin: auto;
 }
 #menubar {
-    padding: 0.5em;
+    padding: 0px 20px;
     display: flex;
     justify-content: space-between;
     flex-direction: row;
@@ -15,8 +15,19 @@ body {
     box-shadow: rgb(0 0 0 / 11%) 0 1px;
 }
 #menubar >span {
-    font-size: 3em;
+    font-size: 6em;
     color: #A5243D;
+}
+#container >h1 {
+    font-family: 'Orelega One', cursive;
+    font-size: 4em;
+    color: #f9f9fa;
+}
+#container  >p {
+    font-family: 'Roboto', sans-serif;    
+    font-size: 1.1em;
+    font-weight: 100;
+    color: #f9f9fa;
 }
 #items {
     color: black;
@@ -31,11 +42,14 @@ body {
 }
 .content{
     background-color: #A5243D;
-    width: 450px;
-    height: 200px;
+    width: 600px;
+    height: auto;
     margin: 2em auto;
     border-radius: 1.5em;
     box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+}
+#container{
+    padding: 20px 50px;
 }
 .bubble {
     background-color: #A5243D;

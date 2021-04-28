@@ -11,9 +11,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <?php 
-        ini_set('display_errors', 1); 
-        error_reporting(E_ALL);
-
         include "buildConnection.php";
         $connection = connection_setup();
 
@@ -46,8 +43,12 @@
                 elseif (mysqli_num_rows($result)>0)
                 {
                     $success_msg = "Signed in as ".$username;
+                    while($row = mysqli_fetch_assoc($result)){
+                        $_SESSION['userid'] = $row['idusers'];
+                    }  
                     $_SESSION['username']  = $username;
-                    $_SESSION['is_SignedIn']  = True;
+                    $_SESSION['is_SignedIn'] = True;
+                    echo $_SESSION['userid'];
                 }
                 else
                 {

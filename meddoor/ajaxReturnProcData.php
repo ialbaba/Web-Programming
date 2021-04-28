@@ -1,7 +1,5 @@
 <?php
 
-    ini_set('display_errors', 1); 
-    error_reporting(E_ALL);
     $host = "localhost";
     $user = "iba11";
     $password = "Student_4282740";
