@@ -9,15 +9,22 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Orelega+One&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
-<body>
     <?php 
-        session_start();
+    include "buildConnection.php";
+    ?>
+<body>
+    <?php
         include "header.php";
         include "optionBar.php";
         display_bar();
-    ?> 
-    <div class = "content">
-</div> 
-</body>
+    ?>
+    <br>
+    <br>
+    <?php 
+        echo "Signed out of ".$_SESSION['username'];
+        setcookie(session_name(), '', 100);
+        session_unset();
+        session_destroy();
+    ?>
+  </body>
 </html>

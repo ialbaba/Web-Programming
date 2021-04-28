@@ -37,18 +37,10 @@ body {
     border-radius: 1.5em;
     box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
 }
-.login {
+.bubble {
     background-color: #A5243D;
     width: 450px;
-    height: 400px;
-    margin: 5em auto;
-    border-radius: 1.5em;
-    box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
-}
-.register {
-    background-color: #A5243D;
-    width: 450px;
-    height: 550px;
+    height: auto;
     margin: 5em auto;
     border-radius: 1.5em;
     box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
@@ -210,6 +202,26 @@ h3{
     font-family: 'Roboto', sans-serif;
     font-weight: 100;
     color:#7d7c83;
-
+}
+#errorMessage{
+    display: none;
+    width: 76%;
+    color: #A5243D;
+    font-weight: 700;
+    font-size: 14px;
+    background: rgba(245, 241, 241);
+    padding: 10px 20px;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    margin-left: 46px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: 'Roboto', sans-serif;
+}
+.form1{
+    padding: 30px;
+    padding-bottom: 45px;
 }
 
