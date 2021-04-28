@@ -1,35 +1,151 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="A short description." />
-    <meta name="keywords" content="put, keywords, here" />
-    <title>PHP-MySQL forum</title>
     <link rel="stylesheet" href="styles.css" type="text/css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Orelega+One&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
-<body>
-    <div class="bill">
-        <p class="sign" align="center">Post A Bill</p>
-        <form class="form1">
-            <input class="un " type="text" align="center" placeholder="Billed Amount">
-            <input class="un " type="text" align="center" placeholder="Patient Payment">
-            <div class = "un" align="center"> 
-                <span class = "un" id="rangeValue">0</span>
-                <Input class="un" type="range" name "" value="0" min="0" max="1000" onChange="rangeSlide(this.value)" onmousemove="rangeSlide(this.value)"></Input>
-                    <script type="text/javascript">
-                        function rangeSlide(value) {
-                            document.getElementById('rangeValue').innerHTML = value;
-                        }
-                    </script>
-            </div>
-            <input class="un" type="tect" align="center" placeholder="Procedure">
-            <input class="un" type = "text" align="center" value = "Place of Service"></a>
-            <input class="submit" type = "submit" align="center" value = "Submit"></a>
-        </form>
-    </div>
-</div> 
+	<script src="jquery-3.6.0.min.js"></script>
+	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+<head>
+<style>
+    html,
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+	height: 100%;
+}
+.container {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+table {
+	width: 800px;
+	border-collapse: collapse;
+	overflow: hidden;
+	box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+th,td {
+	padding: 15px;
+	background-color: rgba(255,255,255,0.2);
+	color: black;
+}
+th {
+	text-align: left;
+}
+thead th {
+        color: white;
+		background-color: #A5243D;
+	}
+td {
+    position: relative;
+}
+
+</style>
+<div class="container">
+	<table>
+		<thead>
+			<tr>
+				<th>Column 1</th>
+				<th>Column 2</th>
+				<th>Column 3</th>
+				<th>Column 4</th>
+				<th>Column 5</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Cell 1</td>
+				<td>Cell 2</td>
+				<td>Cell 3</td>
+				<td>Cell 4</td>
+				<td>Cell 5</td>
+			</tr>
+			<tr>
+				<td>Cell 1</td>
+				<td>Cell 2</td>
+				<td>Cell 3</td>
+				<td>Cell 4</td>
+				<td>Cell 5</td>
+			</tr>
+			<tr>
+				<td>Cell 1</td>
+				<td>Cell 2</td>
+				<td>Cell 3</td>
+				<td>Cell 4</td>
+				<td>Cell 5</td>
+			</tr>
+			<tr>
+				<td>Cell 1</td>
+				<td>Cell 2</td>
+				<td>Cell 3</td>
+				<td>Cell 4</td>
+				<td>Cell 5</td>
+			</tr>
+			<tr>
+				<td>Cell 1</td>
+				<td>Cell 2</td>
+				<td>Cell 3</td>
+				<td>Cell 4</td>
+				<td>Cell 5</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div id = 'myDiv'>
+
+</div>
+<script>
+	var data = [{
+		values: [19, 26],
+		labels: ['Insurance Payment', 'Patient Payment'],
+		type: 'pie'
+	}];
+	
+	var layout = {
+		height: 300,
+		width: 300,
+		title: {
+			text:'Plot Title',
+			font: {
+			family: 'Roboto, sans-serif',
+			size: 24
+			},
+			xref: 'paper',
+			x: -.5
+		},
+		legend: {
+        x: 0.0,
+        y: -0.5,
+        size: 40,
+        font: {
+            family: 'Roboto, sans-serif',
+            size: 10,
+            color: '#000'
+        }
+    	},
+		colorway : ['#A5243D', '#E9E9EC'],
+		plot_bgcolor:"rgba(0,0,0,0)",
+      	paper_bgcolor:"rgba(0,0,0,0)"
+
+	};
+
+	Plotly.newPlot('myDiv', data, layout);
+</script>
+<div style = "display: flex; flex-direction: row; justify-content: space-around; width: 30%" class = "outerContainer">
+	<div id="item1">
+		<span id = "low">$230.90</span>
+		<p style =  "font-size: xx-small; margin: 0; text-align: center;">Low</p>
+	</div>
+	<div id="item1">
+		<span id = "high">$340.90</span>
+		<p style =  "font-size: xx-small; margin: 0; text-align: center;">High</p>
+	</div>
+</div>
+
 </body>
 </html>
