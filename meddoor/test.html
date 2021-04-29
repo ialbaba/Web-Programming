@@ -9,167 +9,31 @@
 	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 <head>
-<style>
-    html,
-body {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 100;
-	height: 100%;
-}
-.container {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-}
-table {
-	width: 800px;
-	border-collapse: collapse;
-	overflow: hidden;
-	box-shadow: 0 0 20px rgba(0,0,0,0.1);
-}
-
-th,td {
-	padding: 15px;
-	background-color: rgba(255,255,255,0.2);
-	color: black;
-}
-th {
-	text-align: left;
-}
-thead th {
-        color: white;
-		background-color: #A5243D;
-	}
-td {
-    position: relative;
-}
-
-</style>
-<div class="container">
-	<table>
-		<thead>
-			<tr>
-				<th>Column 1</th>
-				<th>Column 2</th>
-				<th>Column 3</th>
-				<th>Column 4</th>
-				<th>Column 5</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Cell 1</td>
-				<td>Cell 2</td>
-				<td>Cell 3</td>
-				<td>Cell 4</td>
-				<td>Cell 5</td>
-			</tr>
-			<tr>
-				<td>Cell 1</td>
-				<td>Cell 2</td>
-				<td>Cell 3</td>
-				<td>Cell 4</td>
-				<td>Cell 5</td>
-			</tr>
-			<tr>
-				<td>Cell 1</td>
-				<td>Cell 2</td>
-				<td>Cell 3</td>
-				<td>Cell 4</td>
-				<td>Cell 5</td>
-			</tr>
-			<tr>
-				<td>Cell 1</td>
-				<td>Cell 2</td>
-				<td>Cell 3</td>
-				<td>Cell 4</td>
-				<td>Cell 5</td>
-			</tr>
-			<tr>
-				<td>Cell 1</td>
-				<td>Cell 2</td>
-				<td>Cell 3</td>
-				<td>Cell 4</td>
-				<td>Cell 5</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-<div id = 'myDiv'>
-
-</div>
-<script>
-	var data = [{
-		values: [19, 26],
-		labels: ['Insurance Payment', 'Patient Payment'],
-		type: 'pie'
-	}];
-	
-	var layout = {
-		height: 300,
-		width: 300,
-		title: {
-			text:'Plot Title',
-			font: {
-			family: 'Roboto, sans-serif',
-			size: 24
-			},
-			xref: 'paper',
-			x: -.5
-		},
-		legend: {
-        x: 0.0,
-        y: -0.5,
-        size: 40,
-        font: {
-            family: 'Roboto, sans-serif',
-            size: 10,
-            color: '#000'
-        }
-    	},
-		colorway : ['#A5243D', '#E9E9EC'],
-		plot_bgcolor:"rgba(0,0,0,0)",
-      	paper_bgcolor:"rgba(0,0,0,0)"
-
-	};
-
-	Plotly.newPlot('myDiv', data, layout);
-</script>
-<div style = "display: flex; flex-direction: row; justify-content: space-around; width: 30%" class = "outerContainer">
-	<div id="item1">
-		<span id = "low">$230.90</span>
-		<p style =  "font-size: xx-small; margin: 0; text-align: center;">Low</p>
-	</div>
-	<div id="item1">
-		<span id = "high">$340.90</span>
-		<p style =  "font-size: xx-small; margin: 0; text-align: center;">High</p>
-	</div>
-</div>
-
-    <div class="login">
-		<p class="sign" align="center">Sign in</p>
-		<form class="form1" method = "post" action = "">
-			<div id="errorMessage">Error<br></div>
-			<script> 
-				document.getElementById("errorMessage").style.display = "block";
-			</script>
-			<input class="un" name = "username" type="text" align="center" placeholder="Username">
-			<input class="pass" name= "password" type="password" align="center" placeholder="Password">
-			<a class="submit" align="center">Login</a>
-		</form>
-	</div>
-	
-	<div class = "content">
-		<div id = "container">
-        <h1>what is meddoor?</h1>
-        <p>Meddoor is a webapplication that crowdsources medical and dental bill data. 
-            Meddoor affords prospective a greater transparancy when traversing the often
-            complicated process of choosing the right provider for the job. 
-		</p>
+	<div class = 'billContain'>
+		<div id = "bill">
+			<p1>submitted on 04/09/2021</p>
+			<h2>Bill's Dental Service</h2>
+			<div id="billDataContain">
+				<h3>Procedure Date</h3>
+				<p>Whatever the frick</p>
+				<hr style="margin: 3px 0px">
+				<h3>Procedure</h3>
+				<p>Periodic Exam</p>
+				<hr style="margin: 3px 0px">
+				<h3>Rating</h3>
+				<p>4</p>
+				<hr style="margin: 3px 0px">
+				<h3>Billed Amount</h3>
+				<p>$40.09</p>
+				<hr style="margin: 3px 0px">
+				<h3>Patient Payment</h3>
+				<p>$4.90</p>
+				<form method="post" action="" style="justify-content: center;display: flex;">
+					<input type="hidden" value=5 name="id">
+					<input id="delete" type="submit" value="Delete">
+				</form>
+			</div>
 		</div>
-    </div> 
-
-
+	</div>
 </body>
 </html>

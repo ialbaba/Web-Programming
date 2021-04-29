@@ -21,10 +21,10 @@
     <br>
     <br>
     <?php 
-        echo "Signed out of ".$_SESSION['username'];
         setcookie(session_name(), '', 100);
         session_unset();
         session_destroy();
+        header("Location: http://pacu.cs.pitt.edu/~iba11/meddoor/index.php");
     ?>
   </body>
 </html>

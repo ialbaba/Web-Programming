@@ -6,7 +6,7 @@ if ($_SESSION['is_SignedIn']  === TRUE){
     <div id="menubar">
         <span><a href="index.php">meddoor</a></span>
         <div id = "items">
-            <a class="item" href=""> welcome @'.$_SESSION['username'].' |</a>
+            <a class="item" href="profile.php"> @'.$_SESSION['username'].' <i class="fa fa-user-circle-o"></i> |</a>
             <a href="signout.php">sign out </a>
         </div>
     </div>');
@@ -16,9 +16,8 @@ else{
     <div id="menubar">
         <span><a href="index.php">meddoor</a></span>
         <div id = "items">
-            <a class="item" href="login.php">login |</a>
-            <a class="item" href="register.php">regiser |</a>
-            <a href="signout.php">sign out </a>
+            <a class="item" href="login.php">sign in |</a>
+            <a class="item" href="register.php">sign up</a>
         </div>
     </div>');
 }
