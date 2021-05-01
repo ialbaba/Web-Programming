@@ -1,0 +1,13 @@
+Meddoor
+
+Meddoor is a web app that crowdsources medical billing data. Users can view Billing Cost and Patient cost averages across different dental clinics. 
+Using the Plotly Library Meddoor generates a Pi Chart for the specified procedure and displays to the user the typical breakdown of a payment. 
+
+Users can add new bills, where they fill out the necessary information. User can also view their past bill submissions in by clicking on the username profile button. There they can both view and delete prior submissions. These submissions are processed by the Analysis Tool to compute the averages, ranges, and Pi Charts. The processing of this information happens via JQuery AJAX. Users must be signed in in order to post a new bill. 
+
+Users can also add new places of services by completing the Add Place of Service Form. Users must be signed in in order to add a new place of service. 
+
+All in all, Meddoor was designed with the intent to mirror Glassdoor's concept but applied on the medical/dental world. 
+
+The randomized Dummy Data was inputted via a Python Script. 
+The data closely represents actual live prices of the various dental procedures.

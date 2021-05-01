@@ -13,7 +13,7 @@
     $connection = connection_setup();
     include "header.php";
     include "optionBar.php";
-    display_bar("@".$_SESSION['username']."'s Profile. Browse Through Your Submissions!"); 
+    display_bar("@".$_SESSION['username']."'s Profile. Browse Through Your Latest Posts!"); 
     if ($_SESSION['is_SignedIn'] === True){
        
         $userid = $_SESSION['userid'];
@@ -34,7 +34,7 @@
                     JOIN Places pl on pl.idPlaces = b.idPlaces
                     WHERE b.idUsers = ".$userid."
                     ORDER BY entryDate DESC
-                    LIMIT 10;
+                    LIMIT 9;
                 ";
         $result = mysqli_query($connection, $query) or die(mysqli_error($connection));
     }
@@ -74,6 +74,12 @@
                 <?php
              }
         ?>
+        <div id = "bill">
+			<h2>Post A New Bill Today!</h2>
+			<div id="billDataContain" style="justify-content: center;display: flex;">
+				<div id = "delete"><i class="fa fa-edit"></i><a href = 'post_bill.php'> Post a New Bill </a></div>
+			</div>
+		</div>
 	</div>
 </body>
 </html>

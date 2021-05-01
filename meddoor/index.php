@@ -27,8 +27,7 @@
         <h1>our services.</h1>
         <p>Click on the browse procedures tab and you'll find you self on our Procedure Data Analysis Tool.
             For right now, we only offer data on the most common dental procedures. We also only have data 
-            on like 4 places. And no, you can not add data to more places. Yes, I understand that defeats the purpose
-            but this is simply a project to prove a proof-of-concept. 
+            on like 4 places. This is simply a project to prove a proof-of-concept. 
 		</p>
 		</div>
     </div> 
