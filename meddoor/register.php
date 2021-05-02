@@ -21,11 +21,11 @@
         if(isset($_POST['submit'])){
             $fname = mysqli_real_escape_string($connection, trim($_POST['fname']));
             $lname = mysqli_real_escape_string($connection, trim($_POST['lname']));
-            $username = mysqli_real_escape_string($connection, trim($_POST['username']));
+            $username = $_POST['username'];
             $password = mysqli_real_escape_string($connection, trim($_POST['pass']));
             $confirmpass = mysqli_real_escape_string($connection, trim($_POST['confirm']));
             $valid = True;
-
+            $pattern = '/[\'\/~`\!@#\$%\^&\*\(\)_\-\+=\{\}\[\]\|;:"\<\>,\.\?\\\]/';
             if($fname == '' || $lname == '' || $username == '' || $password == '' || $confirmpass == ''){
                 $valid = false;
                 $error_msg = "Please fill all fields.";
@@ -35,6 +35,14 @@
                 $valid = false;
                 $error_msg = "Confirm password not matching";
                 
+            }
+            if(preg_match($pattern, $username) && $valid)
+            {
+                $valid = false;
+                $error_msg = "Special Character not allowed in username";
+            }
+            else{
+                $username = mysqli_real_escape_string($connection, $username);
             }
             if ($valid){
                 $query = "select * FROM iba11.Users where username = ?";
